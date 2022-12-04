@@ -1,399 +1,399 @@
 [
     {
         "name": "Bolsa Tote Accolade",
-        "price": "",
+        "price": "490",
         "img": "https://i.postimg.cc/NfwR9f2G/Tote-Accolade.png",
         "description": "Bolsa tote, colección Accolade",
         "category": "Totes"
     },
     {
         "name": "Bolsa Tote Aquaria",
-        "price": "",
+        "price": "490",
         "img": "https://i.postimg.cc/GmLYK7jZ/Tote-Aquaria.png",
         "description": "Bolsa tote, colección Aquaria",
         "category": "Totes"
     },
     {
         "name": "Bolsa Tote Blocket",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/PrzYms1W/Tote-Blocket.png",
         "description": "Bolsa tote, colección Blocket",
         "category": "Totes"
     },
     {
         "name": "Bolsa Tote Mora",
-        "price": "",
-        "img": "https://i.postimg.cc/25JZzzfD/Tote-Mora.png",
+        "price": "450",
+        "img": "https://i.postimg.cc/GmfJLPxf/Tote-Mora.png",
         "description": "Bolsa tote, colección Mora",
         "category": "Totes"
     },
     {
         "name": "Bolsa Tote Musa",
-        "price": "",
+        "price": "490",
         "img": "https://i.postimg.cc/3xtGcXSW/Tote-Musa.png",
         "description": "Bolsa tote, colección Musa",
         "category": "Totes"
     },
     {
         "name": "Bolsa Tote Naranja",
-        "price": "",
+        "price": "290",
         "img": "https://i.postimg.cc/856rcq1r/Tote-Naranja.png",
         "description": "Bolsa tote color Naranja",
         "category": "Totes"
     },
     {
         "name": "Bolsa Tote Navy",
-        "price": "",
+        "price": "290",
         "img": "https://i.postimg.cc/R0qt5Wyd/Tote-Navy.png",
         "description": "Bolsa tote, colección Navy",
         "category": "Totes"
     },
     {
         "name": "Bolso de mano Musa",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/sxM7Yv91/Bolso-Mano-Musa.png",
         "description": "Bolso de mano, colección Musa. Medidas: 27x11x23.5cm",
         "category": "Bolsos de mano"
     },
     {
         "name": "Bolso de mano grande Sandhamn",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/wMnJ0g02/Bolso-Mano-Sandhamn.png",
         "description": "Bolso de mano grande, colección Sandhamn",
         "category": "Bolsos de mano"
     },
     {
         "name": "Bolso de mano mini Sandhamn",
-        "price": "",
+        "price": "290",
         "img": "https://i.postimg.cc/pTXDd0mf/Bolso-Mano-Sandhamn-mini.png",
         "description": "Bolso de mano mini, colección Sandhamn",
         "category": "Bolsos de mano"
     },
     {
         "name": "Bolso de mano grande Aquaria",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/pdvfwVx1/Bolso-Aquaria.png",
         "description": "Bolso de mano grande, colección Aquaria",
         "category": "Bolsos de mano"
     },
     {
+        "name": "Bolso de mano Motiv",
+        "price": "390",
+        "img": "https://i.postimg.cc/x8NNkBnz/Bolso-Viaje-Motiv-Bowling.png",
+        "description": "Bolso de mano, colección Motiv",
+        "category": "Bolsos de mano"
+    },
+    {
         "name": "Bolsa cruzada Success",
-        "price": "",
+        "price": "290",
         "img": "https://i.postimg.cc/jdzQZJYJ/Crossbody-Success.png",
         "description": "Bolsa cruzada con correo larga, colección Success",
         "category": "Crossbody"
     },
     {
         "name": "Bolsa cruzada Accolade",
-        "price": "",
+        "price": "290",
         "img": "https://i.postimg.cc/Ls4Tq47g/Crossbody-Accolade.png",
         "description": "Bolsa cruzada con correo larga, colección Accolade",
         "category": "Crossbody"
     },
     {
         "name": "Bolsa cruzada Drift Croc",
-        "price": "",
+        "price": "290",
         "img": "https://i.postimg.cc/1XFcx8g2/Crossbody-Drift-Croc.png",
         "description": "Bolsa cruzada con correo larga, textura de piel de cocodrilo, colección Drift Croc",
         "category": "Crossbody"
     },
     {
         "name": "Bolsa cruzada Jubilee",
-        "price": "",
+        "price": "290",
         "img": "https://i.postimg.cc/vmPv5FFq/Crossbody-Jubilee.png",
         "description": "Bolsa cruzada con correo larga, colección Jubilee",
         "category": "Crossbody"
     },
     {
         "name": "Bolsa cruzada Moderne",
-        "price": "",
+        "price": "340",
         "img": "https://i.postimg.cc/qB6G65mw/Crossbody-Moderne.png",
         "description": "Bolsa cruzada con correo larga, colección Moderne",
         "category": "Crossbody"
     },
     {
         "name": "Bolsa cruzada Musa",
-        "price": "",
+        "price": "290",
         "img": "https://i.postimg.cc/c4qBRB2S/Crossbody-Musa.png",
         "description": "Bolsa cruzada con correo larga, colección Musa",
         "category": "Crossbody"
     },
     {
         "name": "Bolso de viaje Midnatt",
-        "price": "",
+        "price": "590",
         "img": "https://i.postimg.cc/T3VmJ8mj/Bolso-Viaje-Midnatt.png",
         "description": "Bolso de viaje, colección Midnatt",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Accolade",
-        "price": "",
+        "price": "590",
         "img": "https://i.postimg.cc/054p80PS/Bolso-Viaje-Accolade.png",
         "description": "Bolso de viaje, colección Accolade",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Alpina",
-        "price": "",
+        "price": "590",
         "img": "https://i.postimg.cc/HkDXMWJs/Bolso-Viaje-Alpina.png",
         "description": "Bolso de viaje, colección Alpina",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Jubilee",
-        "price": "",
+        "price": "590",
         "img": "https://i.postimg.cc/c48f6tLb/Bolso-Viaje-Jubilee.png",
         "description": "Bolso de viaje, colección Jubilee",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Moderne",
-        "price": "",
+        "price": "590",
         "img": "https://i.postimg.cc/hGKmCCbk/Bolso-Viaje-Moderne.png",
         "description": "Bolso de viaje, colección Moderne",
         "category": "Bolsos de viaje"
     },
     {
-        "name": "Bolso de viaje Motiv redondo",
-        "price": "",
-        "img": "https://i.postimg.cc/x8NNkBnz/Bolso-Viaje-Motiv-Bowling.png",
-        "description": "Bolso de viaje redondo, colección Motiv",
-        "category": "Bolsos de viaje"
-    },
-    {
         "name": "Bolso de viaje Motiv",
-        "price": "",
+        "price": "590",
         "img": "https://i.postimg.cc/6p12m3yK/Bolso-Viaje-Motiv.png",
         "description": "Bolso de viaje, colección Motiv. Medidas: 48x21.5x28cm",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Musa",
-        "price": "",
+        "price": "590",
         "img": "https://i.postimg.cc/3w9vzgtd/Bolso-Viaje-Musa.png",
         "description": "Bolso de viaje, colección Musa",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Sandhamn",
-        "price": "",
+        "price": "590",
         "img": "https://i.postimg.cc/LXX1SnWv/Bolso-Viaje-Sandhamn.png",
         "description": "Bolso de viaje, colección Sandhamn",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso rosa deportivo Puma",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/Kzqt3nTd/Bolso-Asas-Puma.png",
         "description": "Bolso deportivo de asas color rosa, colección Puma",
         "category": "Bolsos multiusos"
     },
     {
-        "name": "Bolso azul deportivo Puma",
-        "price": "",
+        "name": "Bolso verde deportivo Puma",
+        "price": "390",
         "img": "https://i.postimg.cc/DzcrnVwf/Bolso-Deportivo-Puma.png",
-        "description": "Bolso deportivo color azul/gris, colección Puma",
+        "description": "Bolso deportivo color verde/gris, colección Puma",
         "category": "Bolsos multiusos"
     },
     {
         "name": "Neceser Novage",
-        "price": "",
+        "price": "150",
         "img": "https://i.postimg.cc/KjtLqCwy/Neceser-Novage-negro.png",
         "description": "Neceser negro, colección Novage",
         "category": "Bolsos multiusos"
     },
     {
         "name": "Maletín para laptop Alpina",
-        "price": "",
+        "price": "290",
         "img": "https://i.postimg.cc/FspJ0Gv7/Bolso-laptop-Alpina.png",
         "description": "Maletín para laptop, colección Alpina. Medidas: 37x2x27cm",
         "category": "Bolsos multiusos"
     },
     {
         "name": "Cangurera Puma",
-        "price": "",
+        "price": "250",
         "img": "https://i.postimg.cc/ZK4d921G/Cangurera-Puma.png",
         "description": "Cangurera deportiva Puma color rosa. Medidas: 27x13x7.5cm",
         "category": "Bolsos multiusos"
     },
     {
         "name": "Mochila Alpina",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/4xPvTkdf/Mochila-Alpina.png",
         "description": "Mochila azul marino, colección Alpina",
         "category": "Mochilas"
     },
     {
         "name": "Mochila Jubilee",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/Lsst9CYz/Mochila-Jubilee.png",
         "description": "Mochila negra, colección Jubilee",
         "category": "Mochilas"
     },
     {
         "name": "Mochila Lugano",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/FRM3xhPZ/Mochila-Lugano.png",
         "description": "Mochila azul, colección Lugano. Medidas: 30x18x40cm",
         "category": "Mochilas"
     },
     {
         "name": "Mochila Puma",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/QdVV13Sy/Mochila-Puma-negra.png",
         "description": "Mochila Puma negra",
         "category": "Mochilas"
     },
     {
         "name": "Clutch Northern Glow",
-        "price": "",
+        "price": "190",
         "img": "https://i.postimg.cc/4dmQ5LXJ/Clutch-Northern-Glow.png",
         "description": "Bolso tipo clutch, colección Northern Glow",
         "category": "Clutches"
     },
     {
         "name": "Cartera Moderne",
-        "price": "",
+        "price": "220",
         "img": "https://i.postimg.cc/Z5xHKvfh/Cartera-Moderne.png",
         "description": "Cartera, colección Moderne",
         "category": "Carteras"
     },
     {
         "name": "Cartera Accolade",
-        "price": "",
+        "price": "190",
         "img": "https://i.postimg.cc/XJzyYnSW/Cartera-Accolade.png",
         "description": "Cartera con correa larga, colección Accolade",
         "category": "Carteras"
     },
     {
         "name": "Cartera Musa",
-        "price": "",
+        "price": "220",
         "img": "https://i.postimg.cc/YCH8Hzz3/Cartera-Musa.png",
         "description": "Cartera, colección Musa",
         "category": "Carteras"
     },
     {
         "name": "Cosmetiqueras Sandhamn",
-        "price": "",
+        "price": "250",
         "img": "https://i.postimg.cc/tTwtm3gF/Cosmetiqueras-Sandhamn.png",
         "description": "Set de 3 cosmetiqueras, colección Snadhamn",
         "category": "Cosmetiqueras"
     },
     {
         "name": "Cosmetiquera Novage",
-        "price": "",
+        "price": "180",
         "img": "https://i.postimg.cc/L4zP820k/Cosmetiquera-blanca.png",
         "description": "Cosmetiquera blanca Novage. Medidas: 25x16x16cm",
         "category": "Cosmetiqueras"
     },
     {
         "name": "Cosmetiquera Jubilee",
-        "price": "",
+        "price": "150",
         "img": "https://i.postimg.cc/htGQsx4M/Cosmetiquera-Jubilee.png",
         "description": "Cosmetiquera negra Jubilee. Medidas: 21.3x4.3x14.5cm",
         "category": "Cosmetiqueras"
     },
     {
         "name": "Mascada Morada",
-        "price": "",
+        "price": "150",
         "img": "https://i.postimg.cc/qRh2nNGq/Mascada-Morada.png",
         "description": "Mascada Morada",
         "category": "Accesorios"
     },
     {
         "name": "Gorra rosa Puma",
-        "price": "",
+        "price": "250",
         "img": "https://i.postimg.cc/P5TbcrdV/Gorra-Puma-rosa.png",
         "description": "Gorra Puma ajustable color rosa",
         "category": "Accesorios"
     },
     {
         "name": "Mascada Fantasía",
-        "price": "",
+        "price": "150",
         "img": "https://i.postimg.cc/k5hxBQKL/Mascada-Fantasia.png",
         "description": "Mascada colección Fantasía",
         "category": "Accesorios"
     },
     {
         "name": "Reloj Moderne",
-        "price": "",
+        "price": "190",
         "img": "https://i.postimg.cc/L4Pz8ZX0/Reloj-Moderne.png",
         "description": "Reloj para dama colección Moderne",
         "category": "Accesorios"
     },
     {
         "name": "Lentes Solsidan",
-        "price": "",
+        "price": "250",
         "img": "https://i.postimg.cc/02kz5mSx/Lentes-Solsidan.png",
         "description": "Lentes de sol, colección Solsidan",
         "category": "Accesorios"
     },
     {
         "name": "Lentes Blocket",
-        "price": "",
+        "price": "220",
         "img": "https://i.postimg.cc/hvrhb4HH/Lentes-Blocket.png",
         "description": "Lentes para el sol para dama, colección Blocket",
         "category": "Accesorios"
     },
     {
         "name": "Gorra negra Puma",
-        "price": "",
+        "price": "250",
         "img": "https://i.postimg.cc/rscKrRY1/Gorra-Puma-negra.png",
         "description": "Gorra Puma ajustable color negro",
         "category": "Accesorios"
     },
     {
         "name": "Gorra gris Puma",
-        "price": "",
+        "price": "250",
         "img": "https://i.postimg.cc/8C2FT0Rn/Gorra-Puma-gris.png",
         "description": "Gorra Puma ajustable color gris",
         "category": "Accesorios"
     },
     {
         "name": "Bocina Bluetooth",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/L5BgC3ZQ/Bocina-Bluetooth.png",
         "description": "Bocina negra inalámbrica con conexión Bluetooth",
         "category": "Electrónica"
     },
     {
         "name": "Audífonos Bluetooth",
-        "price": "",
+        "price": "150",
         "img": "https://i.postimg.cc/MTBQRSZS/Audifonos-Bluetooth.png",
         "description": "Audífonos negros de diadema, conexión por Bluetooth",
         "category": "Electrónica"
     },
     {
-        "name": "Balanza Digital",
-        "price": "",
+        "name": "Báscula Digital",
+        "price": "290",
         "img": "https://i.postimg.cc/8cVrm0sr/Bascula-Digital.png",
-        "description": "Balanza digital. Medidas: 33cm diametro x 6mm espesor. Rango de peso: 5kg - 180kg.",
+        "description": "Báscula digital. Medidas: 33cm diametro x 6mm espesor. Rango de peso: 5kg - 180kg.",
         "category": "Electrónica"
     },
     {
         "name": "Juego de cuchillos",
-        "price": "",
+        "price": "280",
         "img": "https://i.postimg.cc/j5yD24vq/Juego-Cuchillos.png",
         "description": "Juego de 7 piezas: 5 cuchillos, tabla y pelador de cocina.",
         "category": "Del hogar"
     },
     {
         "name": "Juego de Toallas",
-        "price": "",
+        "price": "300",
         "img": "https://i.postimg.cc/BZc8GNXM/Juego-Toallas-gris.png",
         "description": "Juego de 4 toallas de algodón color gris. Medidas: (2) 70cm por 1.4m, (2) 50cm por 70cm",
         "category": "Del hogar"
     },
     {
         "name": "Bata gris",
-        "price": "",
+        "price": "390",
         "img": "https://i.postimg.cc/T3wBrrhT/Bata-gris.png",
         "description": "Bata de descanso unisex, color gris",
         "category": "Del hogar"
     },
     {
         "name": "Licuadora portatil",
-        "price": "",
+        "price": "150",
         "img": "https://i.postimg.cc/Dyx8SZQG/Licuadora-portatil.png",
         "description": "Mini licuadora portatil color morado",
         "category": "Del hogar"
@@ -407,35 +407,35 @@
     },
     {
         "name": "Olla redonda con tapa",
-        "price": "",
+        "price": "390",
         "img": "https://i.postimg.cc/SRyxsFJV/Olla-redonda.png",
         "description": "Olla redonda de 22cm con tapa",
         "category": "Del hogar"
     },
     {
         "name": "Sarten cuadrado",
-        "price": "",
+        "price": "350",
         "img": "https://i.postimg.cc/NM80Bff5/Sarten-cuadrado.png",
         "description": "Sarten cuadrado de 24cm",
         "category": "Del hogar"
     },
     {
         "name": "Sarten redondo",
-        "price": "",
+        "price": "300",
         "img": "https://i.postimg.cc/qqjM6bKr/Sarten-redondo.png",
         "description": "Sarten redondo de 22cm",
         "category": "Del hogar"
     },
     {
         "name": "Olla de presión",
-        "price": "",
+        "price": "800",
         "img": "https://i.postimg.cc/bvtJV970/Olla-presion-Vasconia.png",
         "description": "Olla de presión Vasconia, capacidad de 6L",
         "category": "Del hogar"
     },
     {
         "name": "Sarten Ecko",
-        "price": "",
+        "price": "150",
         "img": "https://i.postimg.cc/SsbKBz4B/Sarten-Ecko.png",
         "description": "Sarten redondo Ecko de 24cm",
         "category": "Del hogar"
