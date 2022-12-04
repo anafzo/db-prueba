@@ -52,7 +52,7 @@
         "name": "Bolso de mano Musa",
         "price": "",
         "img": "https://i.postimg.cc/sxM7Yv91/Bolso-Mano-Musa.png",
-        "description": "Bolso de mano, colección Musa",
+        "description": "Bolso de mano, colección Musa. Medidas: 27x11x23.5cm",
         "category": "Bolsos de mano"
     },
     {
@@ -164,7 +164,7 @@
         "name": "Bolso de viaje Motiv",
         "price": "",
         "img": "https://i.postimg.cc/6p12m3yK/Bolso-Viaje-Motiv.png",
-        "description": "Bolso de viaje, colección Motiv",
+        "description": "Bolso de viaje, colección Motiv. Medidas: 48x21.5x28cm",
         "category": "Bolsos de viaje"
     },
     {
@@ -206,14 +206,14 @@
         "name": "Maletín para laptop Alpina",
         "price": "",
         "img": "https://i.postimg.cc/FspJ0Gv7/Bolso-laptop-Alpina.png",
-        "description": "Maletín para laptop, colección Alpina",
+        "description": "Maletín para laptop, colección Alpina. Medidas: 37x2x27cm",
         "category": "Bolsos multiusos"
     },
     {
         "name": "Cangurera Puma",
         "price": "",
         "img": "https://i.postimg.cc/ZK4d921G/Cangurera-Puma.png",
-        "description": "Cangurera Puma color rosa",
+        "description": "Cangurera deportiva Puma color rosa. Medidas: 27x13x7.5cm",
         "category": "Bolsos multiusos"
     },
     {
@@ -234,7 +234,7 @@
         "name": "Mochila Lugano",
         "price": "",
         "img": "https://i.postimg.cc/FRM3xhPZ/Mochila-Lugano.png",
-        "description": "Mochila azul, colección Lugano",
+        "description": "Mochila azul, colección Lugano. Medidas: 30x18x40cm",
         "category": "Mochilas"
     },
     {
@@ -280,17 +280,17 @@
         "category": "Cosmetiqueras"
     },
     {
-        "name": "Cosmetiquera blanca",
+        "name": "Cosmetiquera Novage",
         "price": "",
         "img": "https://i.postimg.cc/L4zP820k/Cosmetiquera-blanca.png",
-        "description": "Cosmetiquera blanca",
+        "description": "Cosmetiquera blanca Novage. Medidas: 25x16x16cm",
         "category": "Cosmetiqueras"
     },
     {
         "name": "Cosmetiquera Jubilee",
         "price": "",
         "img": "https://i.postimg.cc/htGQsx4M/Cosmetiquera-Jubilee.png",
-        "description": "Cosmetiquera negra, colección Jubilee",
+        "description": "Cosmetiquera negra Jubilee. Medidas: 21.3x4.3x14.5cm",
         "category": "Cosmetiqueras"
     },
     {
@@ -332,7 +332,7 @@
         "name": "Lentes Blocket",
         "price": "",
         "img": "https://i.postimg.cc/hvrhb4HH/Lentes-Blocket.png",
-        "description": "Lentes de sol, colección Blocket",
+        "description": "Lentes para el sol para dama, colección Blocket",
         "category": "Accesorios"
     },
     {
@@ -353,7 +353,7 @@
         "name": "Bocina Bluetooth",
         "price": "",
         "img": "https://i.postimg.cc/L5BgC3ZQ/Bocina-Bluetooth.png",
-        "description": "Bocina negra, conexión por Bluetooth",
+        "description": "Bocina negra inalámbrica con conexión Bluetooth",
         "category": "Electrónica"
     },
     {
@@ -364,30 +364,30 @@
         "category": "Electrónica"
     },
     {
-        "name": "Báscula Digital",
+        "name": "Balanza Digital",
         "price": "",
         "img": "https://i.postimg.cc/8cVrm0sr/Bascula-Digital.png",
-        "description": "Bascula digital",
+        "description": "Balanza digital. Medidas: 33cm diametro x 6mm espesor. Rango de peso: 5kg - 180kg.",
         "category": "Electrónica"
     },
     {
         "name": "Juego de cuchillos",
         "price": "",
         "img": "https://i.postimg.cc/j5yD24vq/Juego-Cuchillos.png",
-        "description": "Juego de cuchillos con tabla y pelador",
+        "description": "Juego de 7 piezas: 5 cuchillos, tabla y pelador de cocina.",
         "category": "Del hogar"
     },
     {
         "name": "Juego de Toallas",
         "price": "",
         "img": "https://i.postimg.cc/BZc8GNXM/Juego-Toallas-gris.png",
-        "description": "Juego de 4 toallas color gris",
+        "description": "Juego de 4 toallas de algodón color gris. Medidas: (2) 70cm por 1.4m, (2) 50cm por 70cm",
         "category": "Del hogar"
     },
     {
         "name": "Bata gris",
         "price": "",
-        "img": "https://i.postimg.cc/vmggFsVV/Bata-gris.png",
+        "img": "https://i.postimg.cc/T3wBrrhT/Bata-gris.png",
         "description": "Bata de descanso unisex, color gris",
         "category": "Del hogar"
     },
