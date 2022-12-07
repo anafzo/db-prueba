@@ -10,21 +10,21 @@
         "name": "Bolsa Tote Aquaria",
         "price": "$490.00",
         "img": "https://i.postimg.cc/GmLYK7jZ/Tote-Aquaria.png",
-        "description": "Bolsa tote, colección Aquaria",
+        "description": "Bolsa tote, colección Aquaria. Medidas: 31.5cm x 13cm x 27cm",
         "category": "Totes"
     },
     {
         "name": "Bolsa Tote Blocket",
         "price": "$350.00",
         "img": "https://i.postimg.cc/PrzYms1W/Tote-Blocket.png",
-        "description": "Bolsa tote, colección Blocket",
+        "description": "Bolsa tote, colección Blocket. Medidas: 34.5cm x 13.7cm x 27.5cm",
         "category": "Totes"
     },
     {
         "name": "Bolsa Tote Mora",
         "price": "$450.00",
         "img": "https://i.postimg.cc/GmfJLPxf/Tote-Mora.png",
-        "description": "Bolsa tote, colección Mora",
+        "description": "Bolsa tote, colección Mora. Medidas: 36.5cm x 14cm x 27.5cm",
         "category": "Totes"
     },
     {
@@ -35,17 +35,17 @@
         "category": "Totes"
     },
     {
-        "name": "Bolsa Tote Naranja",
+        "name": "Bolsa Tote Breeze Coral",
         "price": "$290.00",
         "img": "https://i.postimg.cc/856rcq1r/Tote-Naranja.png",
-        "description": "Bolsa tote color Naranja",
+        "description": "Bolsa tote, colección Breeze Coral. Medidas: 35.5cm x 13cm x 33cm",
         "category": "Totes"
     },
     {
-        "name": "Bolsa Tote Navy",
+        "name": "Bolsa Tote Classica Náutica",
         "price": "$290.00",
         "img": "https://i.postimg.cc/R0qt5Wyd/Tote-Navy.png",
-        "description": "Bolsa tote, colección Navy",
+        "description": "Bolsa tote, colección Classica Náutica. Medidas: 35cm x 15cm x 27cm",
         "category": "Totes"
     },
     {
@@ -80,7 +80,7 @@
         "name": "Bolso de mano grande Aquaria",
         "price": "$350.00",
         "img": "https://i.postimg.cc/pdvfwVx1/Bolso-Aquaria.png",
-        "description": "Bolso de mano grande, colección Aquaria",
+        "description": "Bolso de mano grande, colección Aquaria. Medidas: 36cm x 12cm x 22.5cm",
         "category": "Bolsos de mano"
     },
     {
@@ -94,7 +94,7 @@
         "name": "Bolsa cruzada Success",
         "price": "$290.00",
         "img": "https://i.postimg.cc/jdzQZJYJ/Crossbody-Success.png",
-        "description": "Bolsa cruzada con correa larga ajustable (se puede quitar), colección Success. Medidas: 23cm x 7cm x 16.5cm",
+        "description": "Bolsa cruzada con correa larga ajustable, colección Success. Medidas: 23cm x 7cm x 16.5cm",
         "category": "Crossbody"
     },
     {
@@ -199,7 +199,7 @@
         "name": "Neceser Novage",
         "price": "$150.00",
         "img": "https://i.postimg.cc/KjtLqCwy/Neceser-Novage-negro.png",
-        "description": "Neceser negro, colección Novage",
+        "description": "Neceser negro, colección Novage.",
         "category": "Bolsos multiusos"
     },
     {
@@ -241,14 +241,14 @@
         "name": "Mochila Puma",
         "price": "$350.00",
         "img": "https://i.postimg.cc/QdVV13Sy/Mochila-Puma-negra.png",
-        "description": "Mochila Puma negra",
+        "description": "Mochila negra, colección Puma. Medidas: 30cm x 43cm x 14cm",
         "category": "Mochilas"
     },
     {
         "name": "Clutch Northern Glow",
         "price": "$190.00",
         "img": "https://i.postimg.cc/4dmQ5LXJ/Clutch-Northern-Glow.png",
-        "description": "Bolso tipo clutch, colección Northern Glow",
+        "description": "Bolso tipo clutch, colección Northern Glow. Medidas: 28cm x 18cm",
         "category": "Clutches"
     },
     {
@@ -322,24 +322,24 @@
         "category": "Accesorios"
     },
     {
-        "name": "Mascada Fantasía",
+        "name": "Mascada Fantástica",
         "price": "$150.00",
         "img": "https://i.postimg.cc/k5hxBQKL/Mascada-Fantasia.png",
-        "description": "Mascada colección Fantasía",
+        "description": "Mascada, colección Fantástica. Medidas: 1.9m x 90cm",
         "category": "Accesorios"
     },
     {
         "name": "Reloj Moderne",
         "price": "$190.00",
         "img": "https://i.postimg.cc/L4Pz8ZX0/Reloj-Moderne.png",
-        "description": "Reloj para dama colección Moderne",
+        "description": "Reloj para dama, colección Moderne",
         "category": "Accesorios"
     },
     {
         "name": "Lentes Solsidan",
         "price": "$250.00",
         "img": "https://i.postimg.cc/02kz5mSx/Lentes-Solsidan.png",
-        "description": "Lentes de sol, colección Solsidan",
+        "description": "Lentes para el sol para dama, colección Solsidan",
         "category": "Accesorios"
     },
     {
@@ -406,10 +406,10 @@
         "category": "Del hogar"
     },
     {
-        "name": "Bata gris",
+        "name": "Bata Deluxe",
         "price": "$390.00",
         "img": "https://i.postimg.cc/T3wBrrhT/Bata-gris.png",
-        "description": "Bata de descanso unisex, color gris",
+        "description": "Bata de descanso unitalla, unisex, color gris, colección Deluxe.",
         "category": "Del hogar"
     },
     {
