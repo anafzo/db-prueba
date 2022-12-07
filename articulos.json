@@ -3,7 +3,7 @@
         "name": "Bolsa Tote Accolade",
         "price": "$490.00",
         "img": "https://i.postimg.cc/NfwR9f2G/Tote-Accolade.png",
-        "description": "Bolsa tote, colección Accolade",
+        "description": "Bolsa tote, colección Accolade. Medidas: 33cm x 25cm x 32cm",
         "category": "Totes"
     },
     {
@@ -31,7 +31,7 @@
         "name": "Bolsa Tote Musa",
         "price": "$490.00",
         "img": "https://i.postimg.cc/3xtGcXSW/Tote-Musa.png",
-        "description": "Bolsa tote, colección Musa",
+        "description": "Bolsa tote con correa y asas, colección Musa. Medidas: 32cm x 13.3cm x 28cm",
         "category": "Totes"
     },
     {
@@ -49,24 +49,31 @@
         "category": "Totes"
     },
     {
+        "name": "Bolsa Tote Urbane",
+        "price": "$",
+        "img": "https://i.postimg.cc/3wXWX9LS/Tote-Urbane.png",
+        "description": "Bolsa tote con asas, colección Urbane. Medidas: 32cm x 16.5cm x 29cm | Asa: 22cm",
+        "category": "Totes"
+    },
+    {
         "name": "Bolso de mano Musa",
         "price": "$350.00",
         "img": "https://i.postimg.cc/sxM7Yv91/Bolso-Mano-Musa.png",
-        "description": "Bolso de mano, colección Musa. Medidas: 27x11x23.5cm",
+        "description": "Bolso de mano con asas, colección Musa. Medidas: 27cm x 11cm x 23.5cm | Longitud correa: 28cm",
         "category": "Bolsos de mano"
     },
     {
         "name": "Bolso de mano grande Sandhamn",
         "price": "$350.00",
         "img": "https://i.postimg.cc/wMnJ0g02/Bolso-Mano-Sandhamn.png",
-        "description": "Bolso de mano grande, colección Sandhamn",
+        "description": "Bolso de mano grande con asas y correa larga, colección Sandhamn. Medidas: 35cm x 12.5cm x 28cm",
         "category": "Bolsos de mano"
     },
     {
         "name": "Bolso de mano mini Sandhamn",
         "price": "$290.00",
         "img": "https://i.postimg.cc/pTXDd0mf/Bolso-Mano-Sandhamn-mini.png",
-        "description": "Bolso de mano mini, colección Sandhamn",
+        "description": "Bolso de mano mini con asas y correa larga, colección Sandhamn. Medidas: 24cm x 11cm x 24.5cm",
         "category": "Bolsos de mano"
     },
     {
@@ -80,119 +87,112 @@
         "name": "Bolso de mano Motiv",
         "price": "$390.00",
         "img": "https://i.postimg.cc/x8NNkBnz/Bolso-Viaje-Motiv-Bowling.png",
-        "description": "Bolso de mano, colección Motiv",
+        "description": "Bolso de mano con asas y correa tipo bowling, colección Motiv. Medidas: 29cm x 18cm x 21.5cm",
         "category": "Bolsos de mano"
     },
     {
         "name": "Bolsa cruzada Success",
         "price": "$290.00",
         "img": "https://i.postimg.cc/jdzQZJYJ/Crossbody-Success.png",
-        "description": "Bolsa cruzada con correo larga, colección Success",
+        "description": "Bolsa cruzada con correa larga ajustable (se puede quitar), colección Success. Medidas: 23cm x 7cm x 16.5cm",
         "category": "Crossbody"
     },
     {
         "name": "Bolsa cruzada Accolade",
         "price": "$290.00",
         "img": "https://i.postimg.cc/Ls4Tq47g/Crossbody-Accolade.png",
-        "description": "Bolsa cruzada con correo larga, colección Accolade",
+        "description": "Bolsa cruzada con correa larga, colección Accolade. Medidas: 24cm x 7cm x 15cm | Caída de la correa: 25cm",
         "category": "Crossbody"
     },
     {
         "name": "Bolsa cruzada Drift Croc",
         "price": "$290.00",
         "img": "https://i.postimg.cc/1XFcx8g2/Crossbody-Drift-Croc.png",
-        "description": "Bolsa cruzada con correo larga, textura de piel de cocodrilo, colección Drift Croc",
+        "description": "Bolsa cruzada de correa larga, textura de piel de cocodrilo, colección Drift Croc. Medidas: 21.5cm x 6.5cm x 18cm | Altura de correa: 46cm",
         "category": "Crossbody"
     },
     {
         "name": "Bolsa cruzada Jubilee",
         "price": "$290.00",
         "img": "https://i.postimg.cc/vmPv5FFq/Crossbody-Jubilee.png",
-        "description": "Bolsa cruzada con correo larga, colección Jubilee",
-        "category": "Crossbody"
-    },
-    {
-        "name": "Bolsa cruzada Moderne",
-        "price": "$340.00",
-        "img": "https://i.postimg.cc/qB6G65mw/Crossbody-Moderne.png",
-        "description": "Bolsa cruzada con correo larga, colección Moderne",
+        "description": "Bolsa cruzada con correa larga, colección Jubilee. Medidas: 26.5cm x 6.3cm x 15cm | Longitud correa: 1.3m",
         "category": "Crossbody"
     },
     {
         "name": "Bolsa cruzada Musa",
         "price": "$290.00",
         "img": "https://i.postimg.cc/c4qBRB2S/Crossbody-Musa.png",
-        "description": "Bolsa cruzada con correo larga, colección Musa",
+        "description": "Bolsa cruzada con correa larga, colección Musa. Medidas: 21cm x 7cm x 14cm | Cadena: 1.2m largo",
         "category": "Crossbody"
     },
     {
         "name": "Bolso de viaje Midnatt",
         "price": "$590.00",
         "img": "https://i.postimg.cc/T3VmJ8mj/Bolso-Viaje-Midnatt.png",
-        "description": "Bolso de viaje, colección Midnatt",
+        "description": "Bolso de viaje, colección Midnatt. Medidas: 44.5cm x 21cm x 25.5cm | Asas: 11.5cm | Longitud correa: 1.42m",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Accolade",
         "price": "$590.00",
         "img": "https://i.postimg.cc/054p80PS/Bolso-Viaje-Accolade.png",
-        "description": "Bolso de viaje, colección Accolade",
+        "description": "Bolso de viaje, colección Accolade. Medidas: 46cm x 23cm x 30cm | Correa: 1.3m | Asas: 10cm",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Alpina",
         "price": "$590.00",
         "img": "https://i.postimg.cc/HkDXMWJs/Bolso-Viaje-Alpina.png",
-        "description": "Bolso de viaje, colección Alpina",
+        "description": "Bolso de viaje, colección Alpina. Medidas: 47cm x 17cm x 32cm | Correa: 1m x 2.5cm",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Jubilee",
         "price": "$590.00",
         "img": "https://i.postimg.cc/c48f6tLb/Bolso-Viaje-Jubilee.png",
-        "description": "Bolso de viaje, colección Jubilee",
+        "description": "Bolso de viaje, colección Jubilee. Medidas: 45cm x 19cm x 29.5cm",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Moderne",
         "price": "$590.00",
         "img": "https://i.postimg.cc/hGKmCCbk/Bolso-Viaje-Moderne.png",
-        "description": "Bolso de viaje, colección Moderne",
+        "description": "Bolso de viaje, colección Moderne. Medidas: 46cm x 24.5cm x 24.5cm",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Motiv",
         "price": "$590.00",
         "img": "https://i.postimg.cc/6p12m3yK/Bolso-Viaje-Motiv.png",
-        "description": "Bolso de viaje, colección Motiv. Medidas: 48x21.5x28cm",
+        "description": "Bolso de viaje, colección Motiv. Medidas: 48cm x 21.5cm x 28cm",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Musa",
         "price": "$590.00",
         "img": "https://i.postimg.cc/3w9vzgtd/Bolso-Viaje-Musa.png",
-        "description": "Bolso de viaje, colección Musa",
+        "description": "Bolso de viaje, colección Musa. Medidas: 47.5cm x 21.5cm x 27.5cm",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso de viaje Sandhamn",
         "price": "$590.00",
         "img": "https://i.postimg.cc/LXX1SnWv/Bolso-Viaje-Sandhamn.png",
-        "description": "Bolso de viaje, colección Sandhamn",
+        "description": "Bolso de viaje, colección Sandhamn. Medidas: 41cm x 18cm x 34.5cm | Asa: 12.5cm | Correa: 1.1m",
         "category": "Bolsos de viaje"
     },
     {
         "name": "Bolso rosa deportivo Puma",
         "price": "$350.00",
         "img": "https://i.postimg.cc/Kzqt3nTd/Bolso-Asas-Puma.png",
-        "description": "Bolso deportivo de asas color rosa, colección Puma",
+        "description": "Bolso deportivo con asas ajustables color rosa, colección Puma. Medidas: 42cm x 36cm x 14cm",
         "category": "Bolsos multiusos"
     },
     {
         "name": "Bolso verde deportivo Puma",
         "price": "$390.00",
         "img": "https://i.postimg.cc/DzcrnVwf/Bolso-Deportivo-Puma.png",
-        "description": "Bolso deportivo color verde/gris, colección Puma",
+        "description": "Bolso deportivo con asas ajustables, colección Puma. Medidas: 25cm x 45cm x 20.5cm",
         "category": "Bolsos multiusos"
     },
     {
@@ -206,35 +206,35 @@
         "name": "Maletín para laptop Alpina",
         "price": "$290.00",
         "img": "https://i.postimg.cc/FspJ0Gv7/Bolso-laptop-Alpina.png",
-        "description": "Maletín para laptop, colección Alpina. Medidas: 37x2x27cm",
+        "description": "Maletín para laptop, colección Alpina. Medidas: 37cm x 2cm x 27cm",
         "category": "Bolsos multiusos"
     },
     {
         "name": "Cangurera Puma",
         "price": "$250.00",
         "img": "https://i.postimg.cc/ZK4d921G/Cangurera-Puma.png",
-        "description": "Cangurera deportiva Puma color rosa. Medidas: 27x13x7.5cm",
+        "description": "Cangurera deportiva Puma color rosa. Medidas: 27cm x 13cm x 7.5cm",
         "category": "Bolsos multiusos"
     },
     {
         "name": "Mochila Alpina",
         "price": "$350.00",
         "img": "https://i.postimg.cc/4xPvTkdf/Mochila-Alpina.png",
-        "description": "Mochila azul marino, colección Alpina",
+        "description": "Mochila azul marino, colección Alpina. Medidas: 33cm x 13cm x 41cm",
         "category": "Mochilas"
     },
     {
         "name": "Mochila Jubilee",
         "price": "$350.00",
         "img": "https://i.postimg.cc/Lsst9CYz/Mochila-Jubilee.png",
-        "description": "Mochila negra, colección Jubilee",
+        "description": "Mochila de terciopelo negro, colección Jubilee. Medidas: 29cm x 12.5cm x 36.5cm",
         "category": "Mochilas"
     },
     {
         "name": "Mochila Lugano",
         "price": "$350.00",
         "img": "https://i.postimg.cc/FRM3xhPZ/Mochila-Lugano.png",
-        "description": "Mochila azul, colección Lugano. Medidas: 30x18x40cm",
+        "description": "Mochila azul, colección Lugano. Medidas: 30cm x 18cm x 40cm",
         "category": "Mochilas"
     },
     {
@@ -252,52 +252,66 @@
         "category": "Clutches"
     },
     {
+        "name": "Clutch Moderne",
+        "price": "$",
+        "img": "https://i.postimg.cc/qB6G65mw/Crossbody-Moderne.png",
+        "description": "Bolso tipo clutch, colección Moderne. Medidas: 21cm x 7.8cm x 16cm | Longitud correa: 1.47m",
+        "category": "Clutches"
+    },
+    {
         "name": "Cartera Moderne",
         "price": "$220.00",
         "img": "https://i.postimg.cc/Z5xHKvfh/Cartera-Moderne.png",
-        "description": "Cartera, colección Moderne",
+        "description": "Cartera de mano, colección Moderne. Medidas: 19.2cm x 10cm x 2cm",
         "category": "Carteras"
     },
     {
         "name": "Cartera Accolade",
         "price": "$190.00",
         "img": "https://i.postimg.cc/XJzyYnSW/Cartera-Accolade.png",
-        "description": "Cartera con correa larga, colección Accolade",
+        "description": "Cartera de mano con correa larga, colección Accolade. Medidas: 14.5cm x 2cm x 10cm | Correa: 1.14m",
         "category": "Carteras"
     },
     {
         "name": "Cartera Musa",
         "price": "$220.00",
         "img": "https://i.postimg.cc/YCH8Hzz3/Cartera-Musa.png",
-        "description": "Cartera, colección Musa",
+        "description": "Cartera de mano, colección Musa. Medidas: 19cm x 2cm x 10cm",
         "category": "Carteras"
     },
     {
         "name": "Cosmetiqueras Sandhamn",
         "price": "$250.00",
         "img": "https://i.postimg.cc/tTwtm3gF/Cosmetiqueras-Sandhamn.png",
-        "description": "Set de 3 cosmetiqueras, colección Snadhamn",
+        "description": "Set de 3 cosmetiqueras, colección Snadhamn. En 3 diferentes tamaños: Grande (26.8cm x 6cm x 17cm), Mediana (22cm x 4.8cm x 15.5cm) y Chica (19.5cm x 4cm x 12cm)",
         "category": "Cosmetiqueras"
     },
     {
         "name": "Cosmetiquera Novage",
         "price": "$180.00",
         "img": "https://i.postimg.cc/L4zP820k/Cosmetiquera-blanca.png",
-        "description": "Cosmetiquera blanca Novage. Medidas: 25x16x16cm",
+        "description": "Cosmetiquera blanca Novage. Medidas: 25cm x 16cm x 16cm",
         "category": "Cosmetiqueras"
     },
     {
         "name": "Cosmetiquera Jubilee",
         "price": "$150.00",
         "img": "https://i.postimg.cc/htGQsx4M/Cosmetiquera-Jubilee.png",
-        "description": "Cosmetiquera negra Jubilee. Medidas: 21.3x4.3x14.5cm",
+        "description": "Cosmetiquera negra de terciopelo, colección Jubilee. Medidas: 21.3cm x 4.3cm x 14.5cm",
         "category": "Cosmetiqueras"
     },
     {
-        "name": "Mascada Morada",
+        "name": "Cosmetiquera Tropic Chic",
+        "price": "$150.00",
+        "img": "https://i.postimg.cc/QCBYF6sC/Cosmetiquera-Tropic-Chic.png",
+        "description": "Cosmetiquera con estampado en animal print, colección Tropic Chic. Medidas: 20cm x 3cm x 13cm",
+        "category": "Cosmetiqueras"
+    },
+    {
+        "name": "Mascada Spirit",
         "price": "$150.00",
         "img": "https://i.postimg.cc/qRh2nNGq/Mascada-Morada.png",
-        "description": "Mascada Morada",
+        "description": "Mascada doble vista, colección Spirit. Medidas: 1.7m x 60cm",
         "category": "Accesorios"
     },
     {
@@ -350,6 +364,13 @@
         "category": "Accesorios"
     },
     {
+        "name": "Sudadera Afelpada",
+        "price": "$",
+        "img": "https://i.postimg.cc/8zxdZ1hy/Sudadera-Afelpada.png",
+        "description": "Sudadera roja afelpada con capucha. Unitalla. Medidas: Torso (84cm x 77cm), Capucha (37cm x 32cm)",
+        "category": "Accesorios"
+    },
+    {
         "name": "Bocina Bluetooth",
         "price": "$350.00",
         "img": "https://i.postimg.cc/L5BgC3ZQ/Bocina-Bluetooth.png",
@@ -381,7 +402,7 @@
         "name": "Juego de Toallas",
         "price": "$300.00",
         "img": "https://i.postimg.cc/BZc8GNXM/Juego-Toallas-gris.png",
-        "description": "Juego de 4 toallas de algodón color gris. Medidas: (2) 70cm por 1.4m, (2) 50cm por 70cm",
+        "description": "Juego de 4 toallas de algodón color gris. Medidas: (2) 70cm x 1.4m, (2) 50cm x 70cm",
         "category": "Del hogar"
     },
     {
@@ -389,6 +410,20 @@
         "price": "$390.00",
         "img": "https://i.postimg.cc/T3wBrrhT/Bata-gris.png",
         "description": "Bata de descanso unisex, color gris",
+        "category": "Del hogar"
+    },
+    {
+        "name": "Frazada Moment Cosy",
+        "price": "$",
+        "img": "https://i.postimg.cc/wxyZwv8N/Frazada-Moment-Cosy.png",
+        "description": "Frazada (manta) color rojo, colección Moment Cosy. Medidas: 1.6m x 1.3m",
+        "category": "Del hogar"
+    },
+    {
+        "name": "Frazada Sherpa",
+        "price": "$",
+        "img": "https://i.postimg.cc/qvGh341h/Frazada-Sherpa.png",
+        "description": "Frazada (manta) doble vista: acabado franel (azul) y sherpa polar (blanco), colección Sherpa. Medidas: 1.8m x 1.5m",
         "category": "Del hogar"
     },
     {
