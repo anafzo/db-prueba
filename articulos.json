@@ -8,7 +8,7 @@
     },
     {
         "name": "Bolsa Tote Aquaria",
-        "price": "$490.00",
+        "price": "$450.00",
         "img": "https://i.postimg.cc/GmLYK7jZ/Tote-Aquaria.png",
         "description": "Bolsa tote, colección Aquaria. Medidas: 31.5cm x 13cm x 27cm",
         "category": "Totes"
@@ -50,9 +50,9 @@
     },
     {
         "name": "Bolsa Tote Urbane",
-        "price": "$",
+        "price": "$550.00",
         "img": "https://i.postimg.cc/3wXWX9LS/Tote-Urbane.png",
-        "description": "Bolsa tote con asas, colección Urbane. Medidas: 32cm x 16.5cm x 29cm | Asa: 22cm",
+        "description": "Bolsa tote con asas, impermeable, colección Urbane. Medidas: 32cm x 16.5cm x 29cm | Asa: 22cm",
         "category": "Totes"
     },
     {
@@ -91,6 +91,13 @@
         "category": "Bolsos de mano"
     },
     {
+        "name": "Bolso de mano Amanda",
+        "price": "$320.00",
+        "img": "https://i.postimg.cc/L5hyB3ph/Bolso-Mano-Amanda.png",
+        "description": "Bolso de mano con cadena, colección Amanda. Medidas: 25cm x 14cm x 7cm",
+        "category": "Bolsos de mano"
+    },
+    {
         "name": "Bolsa cruzada Success",
         "price": "$290.00",
         "img": "https://i.postimg.cc/jdzQZJYJ/Crossbody-Success.png",
@@ -113,7 +120,7 @@
     },
     {
         "name": "Bolsa cruzada Jubilee",
-        "price": "$290.00",
+        "price": "$320.00",
         "img": "https://i.postimg.cc/vmPv5FFq/Crossbody-Jubilee.png",
         "description": "Bolsa cruzada con correa larga, colección Jubilee. Medidas: 26.5cm x 6.3cm x 15cm | Longitud correa: 1.3m",
         "category": "Crossbody"
@@ -253,7 +260,7 @@
     },
     {
         "name": "Clutch Moderne",
-        "price": "$",
+        "price": "$320.00",
         "img": "https://i.postimg.cc/qB6G65mw/Crossbody-Moderne.png",
         "description": "Bolso tipo clutch, colección Moderne. Medidas: 21cm x 7.8cm x 16cm | Longitud correa: 1.47m",
         "category": "Clutches"
@@ -365,7 +372,7 @@
     },
     {
         "name": "Sudadera Afelpada",
-        "price": "$",
+        "price": "$300.00",
         "img": "https://i.postimg.cc/8zxdZ1hy/Sudadera-Afelpada.png",
         "description": "Sudadera roja afelpada con capucha. Unitalla. Medidas: Torso (84cm x 77cm), Capucha (37cm x 32cm)",
         "category": "Accesorios"
@@ -407,21 +414,21 @@
     },
     {
         "name": "Bata Deluxe",
-        "price": "$390.00",
+        "price": "$450.00",
         "img": "https://i.postimg.cc/T3wBrrhT/Bata-gris.png",
         "description": "Bata de descanso unitalla, unisex, color gris, colección Deluxe.",
         "category": "Del hogar"
     },
     {
         "name": "Frazada Moment Cosy",
-        "price": "$",
+        "price": "$200.00",
         "img": "https://i.postimg.cc/wxyZwv8N/Frazada-Moment-Cosy.png",
         "description": "Frazada (manta) color rojo, colección Moment Cosy. Medidas: 1.6m x 1.3m",
         "category": "Del hogar"
     },
     {
         "name": "Frazada Sherpa",
-        "price": "$",
+        "price": "$350.00",
         "img": "https://i.postimg.cc/qvGh341h/Frazada-Sherpa.png",
         "description": "Frazada (manta) doble vista: acabado franel (azul) y sherpa polar (blanco), colección Sherpa. Medidas: 1.8m x 1.5m",
         "category": "Del hogar"
