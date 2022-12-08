@@ -98,6 +98,13 @@
         "category": "Bolsos de mano"
     },
     {
+        "name": "Bolso de mano / crossbody Jubilee",
+        "price": "$320.00",
+        "img": "https://i.postimg.cc/vmPv5FFq/Crossbody-Jubilee.png",
+        "description": "Bolso de mano con correa larga, colección Jubilee. También funciona como crossbody. Medidas: 26.5cm x 6.3cm x 15cm | Longitud correa: 1.3m",
+        "category": "Bolsos de mano"
+    },
+    {
         "name": "Bolsa cruzada Success",
         "price": "$290.00",
         "img": "https://i.postimg.cc/jdzQZJYJ/Crossbody-Success.png",
@@ -119,10 +126,10 @@
         "category": "Crossbody"
     },
     {
-        "name": "Bolsa cruzada Jubilee",
+        "name": "Bolso crossbody / de mano Jubilee",
         "price": "$320.00",
         "img": "https://i.postimg.cc/vmPv5FFq/Crossbody-Jubilee.png",
-        "description": "Bolsa cruzada con correa larga, colección Jubilee. Medidas: 26.5cm x 6.3cm x 15cm | Longitud correa: 1.3m",
+        "description": "Bolsa cruzada con correa larga, colección Jubilee. También funciona como bolso de mano. Medidas: 26.5cm x 6.3cm x 15cm | Longitud correa: 1.3m",
         "category": "Crossbody"
     },
     {
