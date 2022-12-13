@@ -135,15 +135,6 @@
         "quantity": "0"
     },
     {
-        "name": "Bolsa cruzada Accolade",
-        "price": "$290.00",
-        "img": "https://i.postimg.cc/Ls4Tq47g/Crossbody-Accolade.png",
-        "description": "Bolsa cruzada con correa larga, colección Accolade.",
-        "measures": "Medidas: 24cm x 7cm x 15cm | Caída de la correa: 25cm",
-        "category": "Crossbody",
-        "quantity": "4"
-    },
-    {
         "name": "Bolsa cruzada Drift Croc",
         "price": "$290.00",
         "img": "https://i.postimg.cc/1XFcx8g2/Crossbody-Drift-Croc.png",
@@ -151,6 +142,15 @@
         "measures": "Medidas: 21.5cm x 6.5cm x 18cm | Altura de correa: 46cm",
         "category": "Crossbody",
         "quantity": "1"
+    },
+    {
+        "name": "Bolsa cruzada Accolade",
+        "price": "$290.00",
+        "img": "https://i.postimg.cc/Ls4Tq47g/Crossbody-Accolade.png",
+        "description": "Bolsa cruzada con correa larga, colección Accolade.",
+        "measures": "Medidas: 24cm x 7cm x 15cm | Caída de la correa: 25cm",
+        "category": "Crossbody",
+        "quantity": "4"
     },
     {
         "name": "Bolso crossbody / de mano Jubilee",
@@ -176,7 +176,7 @@
         "img": "https://i.postimg.cc/T3VmJ8mj/Bolso-Viaje-Midnatt.png",
         "description": "Bolso de viaje, colección Midnatt.",
         "measures": "Medidas: 44.5cm x 21cm x 25.5cm | Asas: 11.5cm | Longitud correa: 1.42m",
-        "category": "Bolsos y maletas de viaje",
+        "category": "Bolsos/maletas de viaje",
         "quantity": "2"
     },
     {
@@ -185,7 +185,7 @@
         "img": "https://i.postimg.cc/054p80PS/Bolso-Viaje-Accolade.png",
         "description": "Bolso de viaje, colección Accolade.",
         "measures": "Medidas: 46cm x 23cm x 30cm | Correa: 1.3m | Asas: 10cm",
-        "category": "Bolsos y maletas de viaje",
+        "category": "Bolsos/maletas de viaje",
         "quantity": "1"
     },
     {
@@ -194,7 +194,7 @@
         "img": "https://i.postimg.cc/HkDXMWJs/Bolso-Viaje-Alpina.png",
         "description": "Bolso de viaje, colección Alpina.",
         "measures": "Medidas: 47cm x 17cm x 32cm | Correa: 1m x 2.5cm",
-        "category": "Bolsos y maletas de viaje",
+        "category": "Bolsos/maletas de viaje",
         "quantity": "3"
     },
     {
@@ -203,7 +203,7 @@
         "img": "https://i.postimg.cc/c48f6tLb/Bolso-Viaje-Jubilee.png",
         "description": "Bolso de viaje, colección Jubilee.",
         "measures": "Medidas: 45cm x 19cm x 29.5cm",
-        "category": "Bolsos y maletas de viaje",
+        "category": "Bolsos/maletas de viaje",
         "quantity": "1"
     },
     {
@@ -212,7 +212,7 @@
         "img": "https://i.postimg.cc/hGKmCCbk/Bolso-Viaje-Moderne.png",
         "description": "Bolso de viaje, colección Moderne.",
         "measures": "Medidas: 46cm x 24.5cm x 24.5cm",
-        "category": "Bolsos y maletas de viaje",
+        "category": "Bolsos/maletas de viaje",
         "quantity": "1"
     },
     {
@@ -221,7 +221,7 @@
         "img": "https://i.postimg.cc/6p12m3yK/Bolso-Viaje-Motiv.png",
         "description": "Bolso de viaje, colección Motiv.",
         "measures": "Medidas: 48cm x 21.5cm x 28cm",
-        "category": "Bolsos y maletas de viaje",
+        "category": "Bolsos/maletas de viaje",
         "quantity": "2"
     },
     {
@@ -230,7 +230,7 @@
         "img": "https://i.postimg.cc/3w9vzgtd/Bolso-Viaje-Musa.png",
         "description": "Bolso de viaje, colección Musa.",
         "measures": "Medidas: 47.5cm x 21.5cm x 27.5cm",
-        "category": "Bolsos y maletas de viaje",
+        "category": "Bolsos/maletas de viaje",
         "quantity": "1"
     },
     {
@@ -239,7 +239,16 @@
         "img": "https://i.postimg.cc/LXX1SnWv/Bolso-Viaje-Sandhamn.png",
         "description": "Bolso de viaje, colección Brygga.",
         "measures": "Medidas bolso: 41cm x 18cm x 34.5cm | Asa: 12.5cm | Correa: 1.1m",
-        "category": "Bolsos y maletas de viaje",
+        "category": "Bolsos/maletas de viaje",
+        "quantity": "1"
+    },
+    {
+        "name": "Maletín para laptop Alpina",
+        "price": "$290.00",
+        "img": "https://i.postimg.cc/FspJ0Gv7/Bolso-laptop-Alpina.png",
+        "description": "Maletín para laptop, colección Alpina.",
+        "measures": "Medidas: 37cm x 2cm x 27cm",
+        "category": "Bolsos multiusos",
         "quantity": "1"
     },
     {
@@ -266,15 +275,6 @@
         "img": "https://i.postimg.cc/KjtLqCwy/Neceser-Novage-negro.png",
         "description": "Neceser negro, colección Novage.",
         "measures": "",
-        "category": "Bolsos multiusos",
-        "quantity": "1"
-    },
-    {
-        "name": "Maletín para laptop Alpina",
-        "price": "$290.00",
-        "img": "https://i.postimg.cc/FspJ0Gv7/Bolso-laptop-Alpina.png",
-        "description": "Maletín para laptop, colección Alpina.",
-        "measures": "Medidas: 37cm x 2cm x 27cm",
         "category": "Bolsos multiusos",
         "quantity": "1"
     },
@@ -734,7 +734,7 @@
         "img": "https://i.postimg.cc/k4MCKNrV/Set-Moderne.png",
         "description": "Set de bolso de viaje + clutch + cartera + reloj colección Moderne.",
         "measures": "",
-        "category": "Bolsos y maletas de viaje",
+        "category": "Bolsos/maletas de viaje",
         "quantity": "1"
     },
     {
