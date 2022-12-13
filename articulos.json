@@ -5,7 +5,8 @@
         "img": "https://i.postimg.cc/NfwR9f2G/Tote-Accolade.png",
         "description": "Bolsa tote, colección Accolade.",
         "measures": "Medidas: 33cm x 25cm x 32cm",
-        "category": "Totes"
+        "category": "Totes",
+        "quantity": "1"
     },
     {
         "name": "Bolsa Tote Aquaria",
@@ -13,15 +14,17 @@
         "img": "https://i.postimg.cc/GmLYK7jZ/Tote-Aquaria.png",
         "description": "Bolsa tote, colección Aquaria.",
         "measures": "Medidas: 31.5cm x 13cm x 27cm",
-        "category": "Totes"
+        "category": "Totes",
+        "quantity": "1"
     },
     {
-        "name": "Bolsa Tote Blocket",
-        "price": "$350.00",
-        "img": "https://i.postimg.cc/PrzYms1W/Tote-Blocket.png",
-        "description": "Bolsa tote, colección Blocket.",
-        "measures": "Medidas: 34.5cm x 13.7cm x 27.5cm",
-        "category": "Totes"
+        "name": "Set Tote + cartera + lentes Blocket",
+        "price": "$700.00",
+        "img": "https://i.postimg.cc/tT3CyR3b/Set-blocket.png",
+        "description": "Set colección Blocket. Incluye bolso Tote + cartera + lentes de sol.",
+        "measures": "Medidas Tote: 34.5cm x 13.7cm x 27.5cm",
+        "category": "Totes",
+        "quantity": "1"
     },
     {
         "name": "Bolsa Tote Mora",
@@ -29,7 +32,8 @@
         "img": "https://i.postimg.cc/GmfJLPxf/Tote-Mora.png",
         "description": "Bolsa tote, colección Mora.",
         "measures": "Medidas: 36.5cm x 14cm x 27.5cm",
-        "category": "Totes"
+        "category": "Totes",
+        "quantity": "1"
     },
     {
         "name": "Bolsa Tote Musa",
@@ -37,7 +41,8 @@
         "img": "https://i.postimg.cc/3xtGcXSW/Tote-Musa.png",
         "description": "Bolsa tote con correa y asas, colección Musa.",
         "measures": "Medidas: 32cm x 13.3cm x 28cm",
-        "category": "Totes"
+        "category": "Totes",
+        "quantity": "1"
     },
     {
         "name": "Bolsa Tote Breeze Coral",
@@ -45,7 +50,8 @@
         "img": "https://i.postimg.cc/856rcq1r/Tote-Naranja.png",
         "description": "Bolsa tote, colección Breeze Coral.",
         "measures": "Medidas: 35.5cm x 13cm x 33cm",
-        "category": "Totes"
+        "category": "Totes",
+        "quantity": "1"
     },
     {
         "name": "Bolsa Tote Classica Náutica",
@@ -53,7 +59,8 @@
         "img": "https://i.postimg.cc/R0qt5Wyd/Tote-Navy.png",
         "description": "Bolsa tote, colección Classica Náutica.",
         "measures": "Medidas: 35cm x 15cm x 27cm",
-        "category": "Totes"
+        "category": "Totes",
+        "quantity": "1"
     },
     {
         "name": "Bolsa Tote Urbane",
@@ -61,7 +68,8 @@
         "img": "https://i.postimg.cc/3wXWX9LS/Tote-Urbane.png",
         "description": "Bolsa tote con asas, impermeable, colección Urbane.",
         "measures": "Medidas: 32cm x 16.5cm x 29cm | Asa: 22cm",
-        "category": "Totes"
+        "category": "Totes",
+        "quantity": "1"
     },
     {
         "name": "Bolso de mano Musa",
@@ -69,23 +77,26 @@
         "img": "https://i.postimg.cc/sxM7Yv91/Bolso-Mano-Musa.png",
         "description": "Bolso de mano con asas, colección Musa.",
         "measures": "Medidas: 27cm x 11cm x 23.5cm | Longitud correa: 28cm",
-        "category": "Bolsos de mano"
+        "category": "Bolsos de mano",
+        "quantity": "2"
     },
     {
-        "name": "Bolso de mano grande Sandhamn",
+        "name": "Bolso de mano grande Brygga",
         "price": "$350.00",
         "img": "https://i.postimg.cc/wMnJ0g02/Bolso-Mano-Sandhamn.png",
-        "description": "Bolso de mano grande con asas y correa larga, colección Sandhamn.",
+        "description": "Bolso de mano grande con asas y correa larga, colección Brygga.",
         "measures": "Medidas: 35cm x 12.5cm x 28cm",
-        "category": "Bolsos de mano"
+        "category": "Bolsos de mano",
+        "quantity": "2"
     },
     {
-        "name": "Bolso de mano mini Sandhamn",
+        "name": "Bolso de mano mini Brygga",
         "price": "$290.00",
         "img": "https://i.postimg.cc/pTXDd0mf/Bolso-Mano-Sandhamn-mini.png",
-        "description": "Bolso de mano mini con asas y correa larga, colección Sandhamn.",
+        "description": "Bolso de mano mini con asas y correa larga, colección Brygga.",
         "measures": "Medidas: 24cm x 11cm x 24.5cm",
-        "category": "Bolsos de mano"
+        "category": "Bolsos de mano",
+        "quantity": "1"
     },
     {
         "name": "Bolso de mano grande Aquaria",
@@ -93,7 +104,8 @@
         "img": "https://i.postimg.cc/pdvfwVx1/Bolso-Aquaria.png",
         "description": "Bolso de mano grande, colección Aquaria.",
         "measures": "Medidas: 36cm x 12cm x 22.5cm",
-        "category": "Bolsos de mano"
+        "category": "Bolsos de mano",
+        "quantity": "1"
     },
     {
         "name": "Bolso de mano Motiv",
@@ -101,7 +113,8 @@
         "img": "https://i.postimg.cc/x8NNkBnz/Bolso-Viaje-Motiv-Bowling.png",
         "description": "Bolso de mano con asas y correa tipo bowling, colección Motiv.",
         "measures": "Medidas: 29cm x 18cm x 21.5cm",
-        "category": "Bolsos de mano"
+        "category": "Bolsos de mano",
+        "quantity": "0"
     },
     {
         "name": "Bolso de mano Amanda",
@@ -109,7 +122,8 @@
         "img": "https://i.postimg.cc/L5hyB3ph/Bolso-Mano-Amanda.png",
         "description": "Bolso de mano con cadena, colección Amanda.",
         "measures": "Medidas: 25cm x 14cm x 7cm",
-        "category": "Bolsos de mano"
+        "category": "Bolsos de mano",
+        "quantity": "1"
     },
     {
         "name": "Bolso de mano / crossbody Jubilee",
@@ -117,15 +131,8 @@
         "img": "https://i.postimg.cc/vmPv5FFq/Crossbody-Jubilee.png",
         "description": "Bolso de mano con correa larga, colección Jubilee. También funciona como crossbody.",
         "measures": "Medidas: 26.5cm x 6.3cm x 15cm | Longitud correa: 1.3m",
-        "category": "Bolsos de mano"
-    },
-    {
-        "name": "Bolsa cruzada Success",
-        "price": "$290.00",
-        "img": "https://i.postimg.cc/jdzQZJYJ/Crossbody-Success.png",
-        "description": "Bolsa cruzada con correa larga ajustable, colección Success.",
-        "measures": "Medidas: 23cm x 7cm x 16.5cm",
-        "category": "Crossbody"
+        "category": "Bolsos de mano",
+        "quantity": "0"
     },
     {
         "name": "Bolsa cruzada Accolade",
@@ -133,7 +140,8 @@
         "img": "https://i.postimg.cc/Ls4Tq47g/Crossbody-Accolade.png",
         "description": "Bolsa cruzada con correa larga, colección Accolade.",
         "measures": "Medidas: 24cm x 7cm x 15cm | Caída de la correa: 25cm",
-        "category": "Crossbody"
+        "category": "Crossbody",
+        "quantity": "4"
     },
     {
         "name": "Bolsa cruzada Drift Croc",
@@ -141,7 +149,8 @@
         "img": "https://i.postimg.cc/1XFcx8g2/Crossbody-Drift-Croc.png",
         "description": "Bolsa cruzada de correa larga, textura de piel de cocodrilo, colección Drift Croc.",
         "measures": "Medidas: 21.5cm x 6.5cm x 18cm | Altura de correa: 46cm",
-        "category": "Crossbody"
+        "category": "Crossbody",
+        "quantity": "1"
     },
     {
         "name": "Bolso crossbody / de mano Jubilee",
@@ -149,7 +158,8 @@
         "img": "https://i.postimg.cc/vmPv5FFq/Crossbody-Jubilee.png",
         "description": "Bolsa cruzada con correa larga, colección Jubilee. También funciona como bolso de mano.",
         "measures": "Medidas: 26.5cm x 6.3cm x 15cm | Longitud correa: 1.3m",
-        "category": "Crossbody"
+        "category": "Crossbody",
+        "quantity": "0"
     },
     {
         "name": "Bolsa cruzada Musa",
@@ -157,7 +167,8 @@
         "img": "https://i.postimg.cc/c4qBRB2S/Crossbody-Musa.png",
         "description": "Bolsa cruzada con correa larga, colección Musa.",
         "measures": "Medidas: 21cm x 7cm x 14cm | Cadena: 1.2m largo",
-        "category": "Crossbody"
+        "category": "Crossbody",
+        "quantity": "2"
     },
     {
         "name": "Bolso de viaje Midnatt",
@@ -165,7 +176,8 @@
         "img": "https://i.postimg.cc/T3VmJ8mj/Bolso-Viaje-Midnatt.png",
         "description": "Bolso de viaje, colección Midnatt.",
         "measures": "Medidas: 44.5cm x 21cm x 25.5cm | Asas: 11.5cm | Longitud correa: 1.42m",
-        "category": "Bolsos de viaje"
+        "category": "Bolsos y maletas de viaje",
+        "quantity": "2"
     },
     {
         "name": "Bolso de viaje Accolade",
@@ -173,7 +185,8 @@
         "img": "https://i.postimg.cc/054p80PS/Bolso-Viaje-Accolade.png",
         "description": "Bolso de viaje, colección Accolade.",
         "measures": "Medidas: 46cm x 23cm x 30cm | Correa: 1.3m | Asas: 10cm",
-        "category": "Bolsos de viaje"
+        "category": "Bolsos y maletas de viaje",
+        "quantity": "1"
     },
     {
         "name": "Bolso de viaje Alpina",
@@ -181,7 +194,8 @@
         "img": "https://i.postimg.cc/HkDXMWJs/Bolso-Viaje-Alpina.png",
         "description": "Bolso de viaje, colección Alpina.",
         "measures": "Medidas: 47cm x 17cm x 32cm | Correa: 1m x 2.5cm",
-        "category": "Bolsos de viaje"
+        "category": "Bolsos y maletas de viaje",
+        "quantity": "3"
     },
     {
         "name": "Bolso de viaje Jubilee",
@@ -189,7 +203,8 @@
         "img": "https://i.postimg.cc/c48f6tLb/Bolso-Viaje-Jubilee.png",
         "description": "Bolso de viaje, colección Jubilee.",
         "measures": "Medidas: 45cm x 19cm x 29.5cm",
-        "category": "Bolsos de viaje"
+        "category": "Bolsos y maletas de viaje",
+        "quantity": "1"
     },
     {
         "name": "Bolso de viaje Moderne",
@@ -197,7 +212,8 @@
         "img": "https://i.postimg.cc/hGKmCCbk/Bolso-Viaje-Moderne.png",
         "description": "Bolso de viaje, colección Moderne.",
         "measures": "Medidas: 46cm x 24.5cm x 24.5cm",
-        "category": "Bolsos de viaje"
+        "category": "Bolsos y maletas de viaje",
+        "quantity": "1"
     },
     {
         "name": "Bolso de viaje Motiv",
@@ -205,7 +221,8 @@
         "img": "https://i.postimg.cc/6p12m3yK/Bolso-Viaje-Motiv.png",
         "description": "Bolso de viaje, colección Motiv.",
         "measures": "Medidas: 48cm x 21.5cm x 28cm",
-        "category": "Bolsos de viaje"
+        "category": "Bolsos y maletas de viaje",
+        "quantity": "2"
     },
     {
         "name": "Bolso de viaje Musa",
@@ -213,31 +230,35 @@
         "img": "https://i.postimg.cc/3w9vzgtd/Bolso-Viaje-Musa.png",
         "description": "Bolso de viaje, colección Musa.",
         "measures": "Medidas: 47.5cm x 21.5cm x 27.5cm",
-        "category": "Bolsos de viaje"
+        "category": "Bolsos y maletas de viaje",
+        "quantity": "1"
     },
     {
-        "name": "Bolso de viaje Sandhamn",
+        "name": "Bolso de viaje Brygga",
         "price": "$590.00",
         "img": "https://i.postimg.cc/LXX1SnWv/Bolso-Viaje-Sandhamn.png",
-        "description": "Bolso de viaje, colección Sandhamn.",
-        "measures": "Medidas: 41cm x 18cm x 34.5cm | Asa: 12.5cm | Correa: 1.1m",
-        "category": "Bolsos de viaje"
+        "description": "Bolso de viaje, colección Brygga.",
+        "measures": "Medidas bolso: 41cm x 18cm x 34.5cm | Asa: 12.5cm | Correa: 1.1m",
+        "category": "Bolsos y maletas de viaje",
+        "quantity": "1"
     },
     {
-        "name": "Bolso rosa deportivo Puma",
-        "price": "$350.00",
-        "img": "https://i.postimg.cc/Kzqt3nTd/Bolso-Asas-Puma.png",
-        "description": "Bolso deportivo con asas ajustables color rosa, colección Puma.",
-        "measures": "Medidas: 42cm x 36cm x 14cm",
-        "category": "Bolsos multiusos"
+        "name": "Set rosa bolso deportivo + gorra Puma",
+        "price": "$550.00",
+        "img": "https://i.postimg.cc/C13LpBBm/Set-rosa-Puma.png",
+        "description": "Set de bolso deportivo con asas ajustables + gorra marca Puma, color rosa.",
+        "measures": "Medidas bolso: 42cm x 36cm x 14cm",
+        "category": "Bolsos multiusos",
+        "quantity": "1"
     },
     {
-        "name": "Bolso verde deportivo Puma",
-        "price": "$390.00",
-        "img": "https://i.postimg.cc/DzcrnVwf/Bolso-Deportivo-Puma.png",
-        "description": "Bolso deportivo con asas ajustables, colección Puma.",
+        "name": "Set verde bolso deportivo + gorra Puma",
+        "price": "$550.00",
+        "img": "https://i.postimg.cc/v8tvBWXR/Set-verde-Puma.png",
+        "description": "Set de bolso deportivo con asas ajustables + gorra marca Puma, color verde/gris.",
         "measures": "Medidas: 25cm x 45cm x 20.5cm",
-        "category": "Bolsos multiusos"
+        "category": "Bolsos multiusos",
+        "quantity": "1"
     },
     {
         "name": "Neceser Novage",
@@ -245,7 +266,8 @@
         "img": "https://i.postimg.cc/KjtLqCwy/Neceser-Novage-negro.png",
         "description": "Neceser negro, colección Novage.",
         "measures": "",
-        "category": "Bolsos multiusos"
+        "category": "Bolsos multiusos",
+        "quantity": "1"
     },
     {
         "name": "Maletín para laptop Alpina",
@@ -253,7 +275,8 @@
         "img": "https://i.postimg.cc/FspJ0Gv7/Bolso-laptop-Alpina.png",
         "description": "Maletín para laptop, colección Alpina.",
         "measures": "Medidas: 37cm x 2cm x 27cm",
-        "category": "Bolsos multiusos"
+        "category": "Bolsos multiusos",
+        "quantity": "1"
     },
     {
         "name": "Cangurera Puma",
@@ -261,7 +284,8 @@
         "img": "https://i.postimg.cc/ZK4d921G/Cangurera-Puma.png",
         "description": "Cangurera deportiva Puma color rosa.",
         "measures": "Medidas: 27cm x 13cm x 7.5cm",
-        "category": "Bolsos multiusos"
+        "category": "Bolsos multiusos",
+        "quantity": "3"
     },
     {
         "name": "Mochila Alpina",
@@ -269,7 +293,8 @@
         "img": "https://i.postimg.cc/4xPvTkdf/Mochila-Alpina.png",
         "description": "Mochila azul marino, colección Alpina.",
         "measures": "Medidas: 33cm x 13cm x 41cm",
-        "category": "Mochilas"
+        "category": "Mochilas",
+        "quantity": "1"
     },
     {
         "name": "Mochila Jubilee",
@@ -277,7 +302,8 @@
         "img": "https://i.postimg.cc/Lsst9CYz/Mochila-Jubilee.png",
         "description": "Mochila de terciopelo negro, colección Jubilee.",
         "measures": "Medidas: 29cm x 12.5cm x 36.5cm",
-        "category": "Mochilas"
+        "category": "Mochilas",
+        "quantity": "1"
     },
     {
         "name": "Mochila Lugano",
@@ -285,15 +311,17 @@
         "img": "https://i.postimg.cc/FRM3xhPZ/Mochila-Lugano.png",
         "description": "Mochila azul, colección Lugano.",
         "measures": "Medidas: 30cm x 18cm x 40cm",
-        "category": "Mochilas"
+        "category": "Mochilas",
+        "quantity": "3"
     },
     {
-        "name": "Mochila Puma",
-        "price": "$350.00",
-        "img": "https://i.postimg.cc/QdVV13Sy/Mochila-Puma-negra.png",
-        "description": "Mochila negra, colección Puma.",
-        "measures": "Medidas: 30cm x 43cm x 14cm",
-        "category": "Mochilas"
+        "name": "Set de Mochila + gorra Puma",
+        "price": "$550.00",
+        "img": "https://i.postimg.cc/L6zFhQw9/Set-negro-Puma.png",
+        "description": "Set de mochila + gorra ajustable negra, colección Puma.",
+        "measures": "Medidas mochila: 30cm x 43cm x 14cm",
+        "category": "Mochilas",
+        "quantity": "1"
     },
     {
         "name": "Clutch Northern Glow",
@@ -301,15 +329,8 @@
         "img": "https://i.postimg.cc/4dmQ5LXJ/Clutch-Northern-Glow.png",
         "description": "Bolso tipo clutch, colección Northern Glow.",
         "measures": "Medidas: 28cm x 18cm",
-        "category": "Clutches"
-    },
-    {
-        "name": "Clutch Moderne",
-        "price": "$320.00",
-        "img": "https://i.postimg.cc/qB6G65mw/Crossbody-Moderne.png",
-        "description": "Bolso tipo clutch, colección Moderne.",
-        "measures": "Medidas: 21cm x 7.8cm x 16cm | Longitud correa: 1.47m",
-        "category": "Clutches"
+        "category": "Clutches",
+        "quantity": "1"
     },
     {
         "name": "Cartera Moderne",
@@ -317,7 +338,8 @@
         "img": "https://i.postimg.cc/Z5xHKvfh/Cartera-Moderne.png",
         "description": "Cartera de mano, colección Moderne.",
         "measures": "Medidas: 19.2cm x 10cm x 2cm",
-        "category": "Carteras"
+        "category": "Carteras",
+        "quantity": "1"
     },
     {
         "name": "Cartera Accolade",
@@ -325,7 +347,8 @@
         "img": "https://i.postimg.cc/XJzyYnSW/Cartera-Accolade.png",
         "description": "Cartera de mano con correa larga, colección Accolade.",
         "measures": "Medidas: 14.5cm x 2cm x 10cm | Correa: 1.14m",
-        "category": "Carteras"
+        "category": "Carteras",
+        "quantity": "2"
     },
     {
         "name": "Cartera Musa",
@@ -333,23 +356,26 @@
         "img": "https://i.postimg.cc/YCH8Hzz3/Cartera-Musa.png",
         "description": "Cartera de mano, colección Musa.",
         "measures": "Medidas: 19cm x 2cm x 10cm",
-        "category": "Carteras"
+        "category": "Carteras",
+        "quantity": "1"
     },
     {
-        "name": "Cosmetiqueras Sandhamn",
+        "name": "Set de Cosmetiqueras Brygga",
         "price": "$250.00",
         "img": "https://i.postimg.cc/tTwtm3gF/Cosmetiqueras-Sandhamn.png",
-        "description": "Set de 3 cosmetiqueras, colección Snadhamn. En 3 diferentes tamaños.",
+        "description": "Set de 3 cosmetiqueras, colección Brygga. En 3 diferentes tamaños.",
         "measures": "Grande (26.8cm x 6cm x 17cm), Mediana (22cm x 4.8cm x 15.5cm) y Chica (19.5cm x 4cm x 12cm)",
-        "category": "Cosmetiqueras"
+        "category": "Cosmetiqueras",
+        "quantity": "1"
     },
     {
-        "name": "Cosmetiquera Novage",
+        "name": "Neceser blanco Novage",
         "price": "$180.00",
         "img": "https://i.postimg.cc/L4zP820k/Cosmetiquera-blanca.png",
-        "description": "Cosmetiquera blanca Novage.",
+        "description": "Neceser blanco Novage.",
         "measures": "Medidas: 25cm x 16cm x 16cm",
-        "category": "Cosmetiqueras"
+        "category": "Bolsos multiusos",
+        "quantity": "1"
     },
     {
         "name": "Cosmetiquera Jubilee",
@@ -357,7 +383,8 @@
         "img": "https://i.postimg.cc/htGQsx4M/Cosmetiquera-Jubilee.png",
         "description": "Cosmetiquera negra de terciopelo, colección Jubilee.",
         "measures": "Medidas: 21.3cm x 4.3cm x 14.5cm",
-        "category": "Cosmetiqueras"
+        "category": "Cosmetiqueras",
+        "quantity": "1"
     },
     {
         "name": "Cosmetiquera Tropic Chic",
@@ -365,7 +392,8 @@
         "img": "https://i.postimg.cc/QCBYF6sC/Cosmetiquera-Tropic-Chic.png",
         "description": "Cosmetiquera con estampado en animal print, colección Tropic Chic.",
         "measures": "Medidas: 20cm x 3cm x 13cm",
-        "category": "Cosmetiqueras"
+        "category": "Cosmetiqueras",
+        "quantity": "1"
     },
     {
         "name": "Mascada Spirit",
@@ -373,7 +401,8 @@
         "img": "https://i.postimg.cc/qRh2nNGq/Mascada-Morada.png",
         "description": "Mascada doble vista, colección Spirit.",
         "measures": "Medidas: 1.7m x 60cm",
-        "category": "Accesorios"
+        "category": "Accesorios",
+        "quantity": "2"
     },
     {
         "name": "Gorra rosa Puma",
@@ -381,7 +410,8 @@
         "img": "https://i.postimg.cc/P5TbcrdV/Gorra-Puma-rosa.png",
         "description": "Gorra Puma ajustable color rosa.",
         "measures": "",
-        "category": "Accesorios"
+        "category": "Accesorios",
+        "quantity": "3"
     },
     {
         "name": "Mascada Fantástica",
@@ -389,15 +419,17 @@
         "img": "https://i.postimg.cc/k5hxBQKL/Mascada-Fantasia.png",
         "description": "Mascada, colección Fantástica.",
         "measures": "Medidas: 1.9m x 90cm",
-        "category": "Accesorios"
+        "category": "Accesorios",
+        "quantity": "1"
     },
     {
         "name": "Reloj Moderne",
-        "price": "$190.00",
+        "price": "$250.00",
         "img": "https://i.postimg.cc/L4Pz8ZX0/Reloj-Moderne.png",
         "description": "Reloj para dama, colección Moderne.",
         "measures": "",
-        "category": "Accesorios"
+        "category": "Accesorios",
+        "quantity": "2"
     },
     {
         "name": "Lentes Solsidan",
@@ -405,31 +437,8 @@
         "img": "https://i.postimg.cc/02kz5mSx/Lentes-Solsidan.png",
         "description": "Lentes para el sol para dama, colección Solsidan.",
         "measures": "",
-        "category": "Accesorios"
-    },
-    {
-        "name": "Lentes Blocket",
-        "price": "$220.00",
-        "img": "https://i.postimg.cc/hvrhb4HH/Lentes-Blocket.png",
-        "description": "Lentes para el sol para dama, colección Blocket.",
-        "measures": "",
-        "category": "Accesorios"
-    },
-    {
-        "name": "Gorra negra Puma",
-        "price": "$250.00",
-        "img": "https://i.postimg.cc/rscKrRY1/Gorra-Puma-negra.png",
-        "description": "Gorra Puma ajustable color negro.",
-        "measures": "",
-        "category": "Accesorios"
-    },
-    {
-        "name": "Gorra gris Puma",
-        "price": "$250.00",
-        "img": "https://i.postimg.cc/8C2FT0Rn/Gorra-Puma-gris.png",
-        "description": "Gorra Puma ajustable color gris.",
-        "measures": "",
-        "category": "Accesorios"
+        "category": "Accesorios",
+        "quantity": "3"
     },
     {
         "name": "Sudadera Afelpada",
@@ -437,7 +446,8 @@
         "img": "https://i.postimg.cc/8zxdZ1hy/Sudadera-Afelpada.png",
         "description": "Sudadera roja afelpada con capucha. Unitalla.",
         "measures": "Medidas: Torso (84cm x 77cm) | Capucha (37cm x 32cm)",
-        "category": "Accesorios"
+        "category": "Accesorios",
+        "quantity": "2"
     },
     {
         "name": "Bocina Bluetooth",
@@ -445,15 +455,17 @@
         "img": "https://i.postimg.cc/L5BgC3ZQ/Bocina-Bluetooth.png",
         "description": "Bocina negra inalámbrica con conexión Bluetooth.",
         "measures": "",
-        "category": "Electrónica"
+        "category": "Electrónica",
+        "quantity": "4"
     },
     {
         "name": "Audífonos Bluetooth",
-        "price": "$150.00",
+        "price": "$200.00",
         "img": "https://i.postimg.cc/MTBQRSZS/Audifonos-Bluetooth.png",
         "description": "Audífonos negros de diadema, conexión por Bluetooth.",
         "measures": "",
-        "category": "Electrónica"
+        "category": "Electrónica",
+        "quantity": "1"
     },
     {
         "name": "Báscula Digital",
@@ -461,7 +473,8 @@
         "img": "https://i.postimg.cc/8cVrm0sr/Bascula-Digital.png",
         "description": "Báscula digital. Rango de peso: 5kg - 180kg.",
         "measures": "Medidas: 33cm diametro x 6mm espesor",
-        "category": "Electrónica"
+        "category": "Electrónica",
+        "quantity": "1"
     },
     {
         "name": "Juego de cuchillos",
@@ -469,7 +482,8 @@
         "img": "https://i.postimg.cc/j5yD24vq/Juego-Cuchillos.png",
         "description": "Juego de 7 piezas: 5 cuchillos, tabla y pelador de cocina.",
         "measures": "",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "0"
     },
     {
         "name": "Juego de Toallas",
@@ -477,7 +491,8 @@
         "img": "https://i.postimg.cc/BZc8GNXM/Juego-Toallas-gris.png",
         "description": "Juego de 4 toallas de algodón color gris.",
         "measures": "Medidas: (2) 70cm x 1.4m, (2) 50cm x 70cm",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "1"
     },
     {
         "name": "Bata Deluxe",
@@ -485,7 +500,8 @@
         "img": "https://i.postimg.cc/T3wBrrhT/Bata-gris.png",
         "description": "Bata de descanso unitalla, unisex, color gris, colección Deluxe.",
         "measures": "",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "1"
     },
     {
         "name": "Frazada Moment Cosy",
@@ -493,7 +509,8 @@
         "img": "https://i.postimg.cc/wxyZwv8N/Frazada-Moment-Cosy.png",
         "description": "Frazada (manta) color rojo, colección Moment Cosy.",
         "measures": "Medidas: 1.6m x 1.3m",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "1"
     },
     {
         "name": "Frazada Sherpa",
@@ -501,7 +518,8 @@
         "img": "https://i.postimg.cc/qvGh341h/Frazada-Sherpa.png",
         "description": "Frazada (manta) doble vista: acabado franel (azul) y sherpa polar (blanco), colección Sherpa.",
         "measures": "Medidas: 1.8m x 1.5m",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "0"
     },
     {
         "name": "Bata Mjukhet",
@@ -509,7 +527,8 @@
         "img": "https://i.postimg.cc/sDrKwWRn/Bata-Mjukhet.png",
         "description": "Bata de descanso aterciopelada, unitalla, unisex, color gris, colección Mjukhet.",
         "measures": "Medidas: 1.05m x 60cm x 60cm",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "1"
     },
     {
         "name": "Licuadora portatil",
@@ -517,7 +536,8 @@
         "img": "https://i.postimg.cc/Dyx8SZQG/Licuadora-portatil.png",
         "description": "Mini licuadora portatil color morado",
         "measures": "",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "1"
     },
     {
         "name": "Olla cuadrada con tapa",
@@ -525,7 +545,8 @@
         "img": "https://i.postimg.cc/wjPMkGGT/Olla-cuadrada.png",
         "description": "Olla cuadrada de 24cm con tapa, capacidad de 4L",
         "measures": "",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "0"
     },
     {
         "name": "Olla redonda con tapa",
@@ -533,7 +554,8 @@
         "img": "https://i.postimg.cc/SRyxsFJV/Olla-redonda.png",
         "description": "Olla redonda de 22cm con tapa",
         "measures": "",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "1"
     },
     {
         "name": "Sarten cuadrado",
@@ -541,7 +563,8 @@
         "img": "https://i.postimg.cc/NM80Bff5/Sarten-cuadrado.png",
         "description": "Sarten cuadrado de 24cm",
         "measures": "",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "0"
     },
     {
         "name": "Sarten redondo",
@@ -549,7 +572,8 @@
         "img": "https://i.postimg.cc/qqjM6bKr/Sarten-redondo.png",
         "description": "Sarten redondo de 22cm",
         "measures": "",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "3"
     },
     {
         "name": "Olla de presión",
@@ -557,7 +581,8 @@
         "img": "https://i.postimg.cc/bvtJV970/Olla-presion-Vasconia.png",
         "description": "Olla de presión Vasconia, capacidad de 6L",
         "measures": "",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "1"
     },
     {
         "name": "Sarten Ecko",
@@ -565,6 +590,268 @@
         "img": "https://i.postimg.cc/SsbKBz4B/Sarten-Ecko.png",
         "description": "Sarten redondo Ecko de 24cm",
         "measures": "",
-        "category": "Del hogar"
+        "category": "Del hogar",
+        "quantity": "3"
+    },
+    {
+        "name": "Mini refrigerador",
+        "price": "$1,300.00",
+        "img": "https://i.postimg.cc/g0vSTt5B/Holstein-Refri.png",
+        "description": "Mini refrigerador con sistema de refrigeración y calefacción, incluye estante extraíble y puerta de espejo con luz LED. Marca Holstein, capacidad de 6L.",
+        "measures": "Medidas: 27cm x 19.7cm x 29cm. Especificaciones eléctricas: 40W / 120V / 60Hz",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Extractor de jugo",
+        "price": "$850.00",
+        "img": "https://i.postimg.cc/C5chBBBC/Holstein-Extractor-Jugos.png",
+        "description": "Extractor de jugo de acero inoxidable marca Holstein, con bloqueo de seguridad, 2 velocidades para máxima extracción y contenedor extragrande para 1.8L",
+        "measures": "Medidas: 20.1cm x 15.4cm x 31.8cm. Especificaciones eléctricas: 500W / 120V / 60Hz",
+        "category": "Del hogar",
+        "quantity": "2"
+    },
+    {
+        "name": "Mini procesador de comida",
+        "price": "$400.00",
+        "img": "https://i.postimg.cc/rmYZDqy0/Holstein-Procesador.png",
+        "description": "Mini procesador de comida con hojas de acero inoxidable, bloqueo de tapa para mayor seguridad, piezas desmontables para fácil limpieza. Marca Holstein",
+        "measures": "Medidas: 18.5cm x 11cm x 12.5cm. Especificaciones eléctricas: 100W / 120V / 60Hz",
+        "category": "Del hogar",
+        "quantity": "2"
+    },
+    {
+        "name": "Máquina para palomitas",
+        "price": "$500.00",
+        "img": "https://i.postimg.cc/9FS4JK0d/Holstein-Palomera.png",
+        "description": "Máquina palomera de aire caliente marca Holstein, con interruptor de encendido/apagado, bandeja para mantequilla, piezas desmontables para fácil limpieza",
+        "measures": "Medidas: 20.1cm x 15.4cm x 31.8cm. Especificaciones eléctricas: 1100W / 120V / 60Hz",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Sandwichera",
+        "price": "$350.00",
+        "img": "https://i.postimg.cc/d3RYr7hN/Holstein-Sandwichera.png",
+        "description": "Sandwichera de 2 posiciones marca Holstein, con luz indicadora de temperatura",
+        "measures": "Medidas: 20cm x 6.5cm x 21cm. Especificaciones eléctricas: 760W / 120V / 60Hz",
+        "category": "Del hogar",
+        "quantity": "2"
+    },
+    {
+        "name": "Máquina para Omelets",
+        "price": "$500.00",
+        "img": "https://i.postimg.cc/bJBGWBLf/Holstein-Omeletera.png",
+        "description": "Máquina para hacer omelets marca Holstein, con 2 espacios para porciones individuales, superficie antiadherente, ajuste de temperatura de precalentado",
+        "measures": "Medidas: 11.4cm x 25.4cm x 20.6cm. Especificaciones eléctricas: 750W / 120V / 60Hz",
+        "category": "Del hogar",
+        "quantity": "3"
+    },
+    {
+        "name": "Mini parrilla para Paninis",
+        "price": "$500.00",
+        "img": "https://i.postimg.cc/7ZZ5P4cr/Holstein-Panini-Grill.png",
+        "description": "Panini grill marca Holstein, con patas antideslizantes para mayor seguridad y estabilidad, luces indicadoras, manija fría al tacto.",
+        "measures": "Medidas: 23cm x 14.5cm. Especificaciones eléctricas: 850W / 120V / 60Hz",
+        "category": "Del hogar",
+        "quantity": "3"
+    },
+    {
+        "name": "Kit para asado",
+        "price": "$200.00",
+        "img": "https://i.postimg.cc/0NGFtgkr/Tramontina-Asado.png",
+        "description": "Kit para asado marca Tramontina, incluye 3 piezas: 1 cuchillo chef 8”, 1 tenedor trinchante y una pinza para carne.",
+        "measures": "",
+        "category": "Del hogar",
+        "quantity": "2"
+    },
+    {
+        "name": "Hervidor Eléctrico",
+        "price": "$450.00",
+        "img": "https://i.postimg.cc/fTtw8b6L/Holstein-Hervidor.png",
+        "description": "Hervidor Eléctrico marca Holstein, con base removible con rotación de 360º, tapa abatible y con vertedero, botón de encendido/apagado, jarra de acero inoxidable. Capacidad de 1.8L",
+        "measures": "",
+        "category": "Del hogar",
+        "quantity": "2"
+    },
+    {
+        "name": "Juego de cuchillos profesionales",
+        "price": "$400.00",
+        "img": "https://i.postimg.cc/jjpMzM0v/Tramontina-Cuchillos-Premium.png",
+        "description": "Juego de cuchillos profesionales marca Tramontina. Incluye: 1 afilador de 8”, 1 cuchillo para cortar carne 8”, 1 cuchillo para deshuesar 5”",
+        "measures": "",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Set de utensilios Red Velvet",
+        "price": "$250.00",
+        "img": "https://i.postimg.cc/x1RkGCwZ/Set-Utensilios-Cocina.png",
+        "description": "Set de utensilios de silicón para cocina, antiadherentes, resisten altas temperaturas. Incluye: 1 cucharón, 1 escurridor, 1 espátula y 1 guante.",
+        "measures": "",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Set de contenedores herméticos",
+        "price": "$400.00",
+        "img": "https://i.postimg.cc/43f9jtvZ/Set-Hermeticos.png",
+        "description": "Set de 4 contenedores herméticos con tapa transparente, apto para refrigerador y lavavajillas.",
+        "measures": "Medidas: Contenedor Lila: diámetro 22.5cm, capacidad 2,200ml | Contenedor Beige: diámetro 19.5cm, capacidad 1,250ml | Contenedor Turquesa: diámetro 15.8cm, capacidad 730ml | Contenedor Rosa: diámetro 12.4cm, capacidad 360ml.",
+        "category": "Del hogar",
+        "quantity": "2"
+    },
+    {
+        "name": "Vajilla Set Nevada",
+        "price": "$300.00",
+        "img": "https://i.postimg.cc/QCzG5RsC/Vajilla-Nevada.png",
+        "description": "Juego de 4 tazas, 4 platos de tazas y 4 platos de postre, colección Nevada. ",
+        "measures": "Medidas: Tazas: diámetro 8.8cm, alto 7.4cm | Platos para tazas: diámetro 14.8cm, alto 1.8cm | Platos de postre: diámetro 20.3cm, alto 1.7cm",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Neceser Wellness",
+        "price": "$150.00",
+        "img": "https://i.postimg.cc/D0CcjTYQ/Estuche-Wellness.png",
+        "description": "Neceser Wellness",
+        "measures": "",
+        "category": "Bolsos multiusos",
+        "quantity": "1"
+    },
+    {
+        "name": "Neceser Brygga",
+        "price": "$400.00",
+        "img": "https://i.postimg.cc/P5dStS18/Neceser-Brygga.png",
+        "description": "Neceser cilíndrico, colección Brygga. Incluye 2 tipos de asa y bolso pequeño, posee 2 compartimentos: el superior con 8 elásticos y el inferior con 6 para sujeción",
+        "measures": "Medidas: 19cm diámetro x 22.5cm alto",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Set Moderne",
+        "price": "$1,200.00",
+        "img": "https://i.postimg.cc/k4MCKNrV/Set-Moderne.png",
+        "description": "Set de bolso de viaje + clutch + cartera + reloj colección Moderne.",
+        "measures": "",
+        "category": "Bolsos y maletas de viaje",
+        "quantity": "1"
+    },
+    {
+        "name": "Juego de cubiertos 50 aniversario",
+        "price": "$350.00",
+        "img": "https://i.postimg.cc/7PgcwGjd/Cubiertos-50aniv.png",
+        "description": "Juego de cubiertos de 24 piezas para 6 personas. Incluye: 6 Cucharas soperas, 6 Cucharas de postre, 6 Tenedores, 6 Cuchillos.",
+        "measures": "",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Set de cuchillos Thomas and Kitchenware",
+        "price": "$500.00",
+        "img": "https://i.postimg.cc/JzqHLqQ0/Cuchillos-Thomas.png",
+        "description": "Set de cuchillos en base de madera marca Thomas and Kitchenware. Incluye: 1 cuchillo de chef, 1 cuchillo rebanador, 1 cuchillo rebanador de pan, 1 cuchillo destazador, 1 cuchillo mondador, 1 cuchillo hacha, 6 cuchillos fileteros, 1 tijeras destapador multiusos, 1 base de madera",
+        "measures": "",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Reloj Drift Flower",
+        "price": "$200.00",
+        "img": "https://i.postimg.cc/sDgtmf0L/reloj-Drift-Flower.png",
+        "description": "Reloj para dama, colección Drift Flower.",
+        "measures": "Medidas: 23.8cm largo",
+        "category": "Accesorios",
+        "quantity": "1"
+    },
+    {
+        "name": "Reloj Jubilee",
+        "price": "$500.00",
+        "img": "https://i.postimg.cc/HWBNrDs9/reloj-jubilee.png",
+        "description": "Reloj para caballero, colección Jubilee",
+        "measures": "",
+        "category": "Accesorios",
+        "quantity": "1"
+    },
+    {
+        "name": "Reloj Dove",
+        "price": "$380.00",
+        "img": "https://i.postimg.cc/c4PX3sqw/reloj-Dove.png",
+        "description": "Reloj para dama, colección Dove. Con cristales Swarovski.",
+        "measures": "",
+        "category": "Accesorios",
+        "quantity": "2"
+    },
+    {
+        "name": "Reloj Lysande",
+        "price": "$380.00",
+        "img": "https://i.postimg.cc/qB5LfkvS/reloj-Lysande.png",
+        "description": "Reloj para dama, colección Lysande. Con cristales Swarovski.",
+        "measures": "",
+        "category": "Accesorios",
+        "quantity": "1"
+    },
+    {
+        "name": "Reloj Rose Goldtone",
+        "price": "$380.00",
+        "img": "https://i.postimg.cc/c12jSqx9/reloj-Gold-Rosetone.png",
+        "description": "Reloj para dama, colección Rose Goldtone. Con cristales Swarovski.",
+        "measures": "",
+        "category": "Accesorios",
+        "quantity": "1"
+    },
+    {
+        "name": "Reloj Giordani Gold Anniversary",
+        "price": "$300.00",
+        "img": "https://i.postimg.cc/L8HVdv1Q/reloj-GGAnni.png",
+        "description": "Reloj para dama, colección Giordani Gold Anniversary.",
+        "measures": "",
+        "category": "Accesorios",
+        "quantity": "1"
+    },
+    {
+        "name": "Reloj ejecutivo de pulso",
+        "price": "$380.00",
+        "img": "https://i.postimg.cc/wjfLCzH3/reloj-pulso.png",
+        "description": "Reloj para dama con cristales Swarovski.",
+        "measures": "",
+        "category": "Accesorios",
+        "quantity": "1"
+    },
+    {
+        "name": "Reloj inteligente",
+        "price": "$480.00",
+        "img": "https://i.postimg.cc/3wq6Jzjx/Reloj-inteligente.png",
+        "description": "Reloj inteligente con correa extraíble color negro. Compatible con Android 5.0 y superior, iOS 9.0 y superior, Bluetooth 4.0.",
+        "measures": "Medidas: pantalla de 4.5cm x 3.8cm x 1.5cm | correa de 14cm x 9.8cm",
+        "category": "Accesorios",
+        "quantity": "1"
+    },
+    {
+        "name": "Lentes Chic",
+        "price": "$250.00",
+        "img": "https://i.postimg.cc/5y8LFQZR/Lentes-Chic.png",
+        "description": "Lentes para el sol para dama Norrsken, colección Chic",
+        "measures": "",
+        "category": "Accesorios",
+        "quantity": "1"
+    },
+    {
+        "name": "Lentes Jubilee",
+        "price": "$250.00",
+        "img": "https://i.postimg.cc/9QwVPPx0/Lentes-Jubilee.png",
+        "description": "Lentes para el sol para dama, colección Jubilee.",
+        "measures": "",
+        "category": "Accesorios",
+        "quantity": "2"
+    },
+    {
+        "name": "Lentes Nordic Waters",
+        "price": "$250.00",
+        "img": "https://i.postimg.cc/SKVZJ3WM/Lentes-Nordic-Waters.png",
+        "description": "Lentes para el sol para dama, colección Nordic Waters.",
+        "measures": "",
+        "category": "Accesorios",
+        "quantity": "2"
     }
 ]
