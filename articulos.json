@@ -6,7 +6,7 @@
         "description": "Bolsa tote, colección Accolade.",
         "measures": "Medidas: 33cm x 25cm x 32cm",
         "category": "Totes",
-        "quantity": "1"
+        "quantity": "0"
     },
     {
         "name": "Bolsa Tote Aquaria",
@@ -42,7 +42,7 @@
         "description": "Bolsa tote con correa y asas, colección Musa.",
         "measures": "Medidas: 32cm x 13.3cm x 28cm",
         "category": "Totes",
-        "quantity": "1"
+        "quantity": "0"
     },
     {
         "name": "Bolsa Tote Breeze Coral",
@@ -60,7 +60,7 @@
         "description": "Bolsa tote, colección Classica Náutica.",
         "measures": "Medidas: 35cm x 15cm x 27cm",
         "category": "Totes",
-        "quantity": "1"
+        "quantity": "0"
     },
     {
         "name": "Bolsa Tote Urbane",
@@ -69,7 +69,7 @@
         "description": "Bolsa tote con asas, impermeable, colección Urbane.",
         "measures": "Medidas: 32cm x 16.5cm x 29cm | Asa: 22cm",
         "category": "Totes",
-        "quantity": "1"
+        "quantity": "2"
     },
     {
         "name": "Bolso de mano Musa",
@@ -82,7 +82,7 @@
     },
     {
         "name": "Bolso de mano grande Brygga",
-        "price": "$350.00",
+        "price": "$390.00",
         "img": "https://i.postimg.cc/wMnJ0g02/Bolso-Mano-Sandhamn.png",
         "description": "Bolso de mano grande con asas y correa larga, colección Brygga.",
         "measures": "Medidas: 35cm x 12.5cm x 28cm",
@@ -91,7 +91,7 @@
     },
     {
         "name": "Bolso de mano mini Brygga",
-        "price": "$290.00",
+        "price": "$300.00",
         "img": "https://i.postimg.cc/pTXDd0mf/Bolso-Mano-Sandhamn-mini.png",
         "description": "Bolso de mano mini con asas y correa larga, colección Brygga.",
         "measures": "Medidas: 24cm x 11cm x 24.5cm",
@@ -118,7 +118,7 @@
     },
     {
         "name": "Bolso de mano Amanda",
-        "price": "$320.00",
+        "price": "$400.00",
         "img": "https://i.postimg.cc/L5hyB3ph/Bolso-Mano-Amanda.png",
         "description": "Bolso de mano con cadena, colección Amanda.",
         "measures": "Medidas: 25cm x 14cm x 7cm",
@@ -150,7 +150,7 @@
         "description": "Bolsa cruzada con correa larga, colección Accolade.",
         "measures": "Medidas: 24cm x 7cm x 15cm | Caída de la correa: 25cm",
         "category": "Crossbody",
-        "quantity": "4"
+        "quantity": "1"
     },
     {
         "name": "Bolso crossbody / de mano Jubilee",
@@ -186,7 +186,7 @@
         "description": "Bolso de viaje, colección Accolade.",
         "measures": "Medidas: 46cm x 23cm x 30cm | Correa: 1.3m | Asas: 10cm",
         "category": "Bolsos/maletas de viaje",
-        "quantity": "1"
+        "quantity": "0"
     },
     {
         "name": "Bolso de viaje Alpina",
@@ -222,7 +222,7 @@
         "description": "Bolso de viaje, colección Motiv.",
         "measures": "Medidas: 48cm x 21.5cm x 28cm",
         "category": "Bolsos/maletas de viaje",
-        "quantity": "2"
+        "quantity": "1"
     },
     {
         "name": "Bolso de viaje Musa",
@@ -334,7 +334,7 @@
     },
     {
         "name": "Cartera Moderne",
-        "price": "$220.00",
+        "price": "$240.00",
         "img": "https://i.postimg.cc/Z5xHKvfh/Cartera-Moderne.png",
         "description": "Cartera de mano, colección Moderne.",
         "measures": "Medidas: 19.2cm x 10cm x 2cm",
@@ -343,16 +343,16 @@
     },
     {
         "name": "Cartera Accolade",
-        "price": "$190.00",
+        "price": "$240.00",
         "img": "https://i.postimg.cc/XJzyYnSW/Cartera-Accolade.png",
         "description": "Cartera de mano con correa larga, colección Accolade.",
         "measures": "Medidas: 14.5cm x 2cm x 10cm | Correa: 1.14m",
         "category": "Carteras",
-        "quantity": "2"
+        "quantity": "1"
     },
     {
         "name": "Cartera Musa",
-        "price": "$220.00",
+        "price": "$240.00",
         "img": "https://i.postimg.cc/YCH8Hzz3/Cartera-Musa.png",
         "description": "Cartera de mano, colección Musa.",
         "measures": "Medidas: 19cm x 2cm x 10cm",
@@ -361,7 +361,7 @@
     },
     {
         "name": "Set de Cosmetiqueras Brygga",
-        "price": "$250.00",
+        "price": "$290.00",
         "img": "https://i.postimg.cc/tTwtm3gF/Cosmetiqueras-Sandhamn.png",
         "description": "Set de 3 cosmetiqueras, colección Brygga. En 3 diferentes tamaños.",
         "measures": "Grande (26.8cm x 6cm x 17cm), Mediana (22cm x 4.8cm x 15.5cm) y Chica (19.5cm x 4cm x 12cm)",
@@ -379,7 +379,7 @@
     },
     {
         "name": "Cosmetiquera Jubilee",
-        "price": "$150.00",
+        "price": "$190.00",
         "img": "https://i.postimg.cc/htGQsx4M/Cosmetiquera-Jubilee.png",
         "description": "Cosmetiquera negra de terciopelo, colección Jubilee.",
         "measures": "Medidas: 21.3cm x 4.3cm x 14.5cm",
@@ -388,7 +388,7 @@
     },
     {
         "name": "Cosmetiquera Tropic Chic",
-        "price": "$150.00",
+        "price": "$100.00",
         "img": "https://i.postimg.cc/QCBYF6sC/Cosmetiquera-Tropic-Chic.png",
         "description": "Cosmetiquera con estampado en animal print, colección Tropic Chic.",
         "measures": "Medidas: 20cm x 3cm x 13cm",
@@ -501,7 +501,7 @@
         "description": "Bata de descanso unitalla, unisex, color gris, colección Deluxe.",
         "measures": "",
         "category": "Del hogar",
-        "quantity": "1"
+        "quantity": "0"
     },
     {
         "name": "Frazada Moment Cosy",
@@ -537,7 +537,7 @@
         "description": "Mini licuadora portatil color morado",
         "measures": "",
         "category": "Del hogar",
-        "quantity": "1"
+        "quantity": "2"
     },
     {
         "name": "Olla cuadrada con tapa",
@@ -595,7 +595,7 @@
     },
     {
         "name": "Mini refrigerador",
-        "price": "$1,300.00",
+        "price": "$1,600.00",
         "img": "https://i.postimg.cc/g0vSTt5B/Holstein-Refri.png",
         "description": "Mini refrigerador con sistema de refrigeración y calefacción, incluye estante extraíble y puerta de espejo con luz LED. Marca Holstein, capacidad de 6L.",
         "measures": "Medidas: 27cm x 19.7cm x 29cm. Especificaciones eléctricas: 40W / 120V / 60Hz",
@@ -604,7 +604,7 @@
     },
     {
         "name": "Extractor de jugo",
-        "price": "$850.00",
+        "price": "$690.00",
         "img": "https://i.postimg.cc/C5chBBBC/Holstein-Extractor-Jugos.png",
         "description": "Extractor de jugo de acero inoxidable marca Holstein, con bloqueo de seguridad, 2 velocidades para máxima extracción y contenedor extragrande para 1.8L",
         "measures": "Medidas: 20.1cm x 15.4cm x 31.8cm. Especificaciones eléctricas: 500W / 120V / 60Hz",
@@ -636,11 +636,11 @@
         "description": "Sandwichera de 2 posiciones marca Holstein, con luz indicadora de temperatura",
         "measures": "Medidas: 20cm x 6.5cm x 21cm. Especificaciones eléctricas: 760W / 120V / 60Hz",
         "category": "Del hogar",
-        "quantity": "2"
+        "quantity": "3"
     },
     {
         "name": "Máquina para Omelets",
-        "price": "$500.00",
+        "price": "$490.00",
         "img": "https://i.postimg.cc/bJBGWBLf/Holstein-Omeletera.png",
         "description": "Máquina para hacer omelets marca Holstein, con 2 espacios para porciones individuales, superficie antiadherente, ajuste de temperatura de precalentado",
         "measures": "Medidas: 11.4cm x 25.4cm x 20.6cm. Especificaciones eléctricas: 750W / 120V / 60Hz",
@@ -649,12 +649,12 @@
     },
     {
         "name": "Mini parrilla para Paninis",
-        "price": "$500.00",
+        "price": "$490.00",
         "img": "https://i.postimg.cc/7ZZ5P4cr/Holstein-Panini-Grill.png",
         "description": "Panini grill marca Holstein, con patas antideslizantes para mayor seguridad y estabilidad, luces indicadoras, manija fría al tacto.",
         "measures": "Medidas: 23cm x 14.5cm. Especificaciones eléctricas: 850W / 120V / 60Hz",
         "category": "Del hogar",
-        "quantity": "3"
+        "quantity": "2"
     },
     {
         "name": "Kit para asado",
@@ -676,7 +676,7 @@
     },
     {
         "name": "Juego de cuchillos profesionales",
-        "price": "$400.00",
+        "price": "$300.00",
         "img": "https://i.postimg.cc/jjpMzM0v/Tramontina-Cuchillos-Premium.png",
         "description": "Juego de cuchillos profesionales marca Tramontina. Incluye: 1 afilador de 8”, 1 cuchillo para cortar carne 8”, 1 cuchillo para deshuesar 5”",
         "measures": "",
@@ -685,7 +685,7 @@
     },
     {
         "name": "Set de utensilios Red Velvet",
-        "price": "$250.00",
+        "price": "$290.00",
         "img": "https://i.postimg.cc/x1RkGCwZ/Set-Utensilios-Cocina.png",
         "description": "Set de utensilios de silicón para cocina, antiadherentes, resisten altas temperaturas. Incluye: 1 cucharón, 1 escurridor, 1 espátula y 1 guante.",
         "measures": "",
@@ -699,7 +699,7 @@
         "description": "Set de 4 contenedores herméticos con tapa transparente, apto para refrigerador y lavavajillas.",
         "measures": "Medidas: Contenedor Lila: diámetro 22.5cm, capacidad 2,200ml | Contenedor Beige: diámetro 19.5cm, capacidad 1,250ml | Contenedor Turquesa: diámetro 15.8cm, capacidad 730ml | Contenedor Rosa: diámetro 12.4cm, capacidad 360ml.",
         "category": "Del hogar",
-        "quantity": "2"
+        "quantity": "0"
     },
     {
         "name": "Vajilla Set Nevada",
@@ -711,10 +711,10 @@
         "quantity": "1"
     },
     {
-        "name": "Neceser Wellness",
-        "price": "$150.00",
-        "img": "https://i.postimg.cc/D0CcjTYQ/Estuche-Wellness.png",
-        "description": "Neceser Wellness",
+        "name": "Bolso de gimnasio Wellness",
+        "price": "$220.00",
+        "img": "https://i.postimg.cc/NF8L9pZp/Estuche-Wellness.png",
+        "description": "Bolso de gimnasio Wellness, incluye vaso mezclador con cuchara para proteina",
         "measures": "",
         "category": "Bolsos multiusos",
         "quantity": "1"
@@ -730,7 +730,7 @@
     },
     {
         "name": "Set Moderne",
-        "price": "$1,200.00",
+        "price": "$1,500.00",
         "img": "https://i.postimg.cc/k4MCKNrV/Set-Moderne.png",
         "description": "Set de bolso de viaje + clutch + cartera + reloj colección Moderne.",
         "measures": "",
@@ -802,7 +802,7 @@
     },
     {
         "name": "Reloj Giordani Gold Anniversary",
-        "price": "$300.00",
+        "price": "$220.00",
         "img": "https://i.postimg.cc/L8HVdv1Q/reloj-GGAnni.png",
         "description": "Reloj para dama, colección Giordani Gold Anniversary.",
         "measures": "",
@@ -853,5 +853,86 @@
         "measures": "",
         "category": "Accesorios",
         "quantity": "2"
+    },
+    {
+        "name": "Secadora de viaje",
+        "price": "$300.00",
+        "img": "https://i.postimg.cc/LXVSxCLG/Secadora-Remington.png",
+        "description": "Secadora de viaje compacta con mango plegable, gancho para colgar, bivoltaje (125V y 240V), concentrador, 2 velocidades/temperatura.",
+        "measures": "Especificaciones eléctricas: 850W / 120V / 60Hz",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Bocina inalámbrica Bluetooth",
+        "price": "$800.00",
+        "img": "https://i.postimg.cc/FHW7Zx0P/Bocina-Go-Digital.png",
+        "description": "Bocina blanca inalámbrica con conexión Bluetooth, radio FM, léctor de tarjeta SD/MMC, lector USB. Incluye: 1 bocina, 1 control remoto, 1 cable USB con auxiliar",
+        "measures": "Medidas: 17cm x 13cm x 72cm | Potencia: 15 W | Voltaje: 5VDC",
+        "category": "Del hogar",
+        "quantity": "1"
+    },
+    {
+        "name": "Maleta Ivory",
+        "price": "$1,600.00",
+        "img": "https://i.postimg.cc/ZRVwV2K9/Maleta-Ivory.png",
+        "description": "Maleta de viaje, colección Accolade color marfil. Compartimiento separado con cierre a un lado, 4 ruedas con giro 360º, Asa extraíble con altura de 43.5 cm, bloqueo con código.",
+        "measures": "Medidas: 50cm x 24cm x 36cm",
+        "category": "Bolsos/maletas de viaje",
+        "quantity": "1"
+    },
+    {
+        "name": "Set de viaje Accolade",
+        "price": "$2,500.00",
+        "img": "https://i.postimg.cc/76fshDkx/Set-Accolade.png",
+        "description": "Set Maleta + Bolso de viaje + Bolsa Cruzada + Cartera Accolade.",
+        "measures": "",
+        "category": "Bolsos/maletas de viaje",
+        "quantity": "1"
+    },
+    {
+        "name": "Set de viaje Lightweight Lux",
+        "price": "$2,690.00",
+        "img": "https://i.postimg.cc/BQn2Tpzz/Set-Lightweight.png",
+        "description": "Set Maleta + Bolso de viaje + Mochila + Bolsa cruzada Lightweight Lux",
+        "measures": "",
+        "category": "Bolsos/maletas de viaje",
+        "quantity": "1"
+    },
+    {
+        "name": "Maleta Dusk",
+        "price": "$1,600.00",
+        "img": "https://i.postimg.cc/NGmXvM9Q/Maleta-Jubilee-Dusk.png",
+        "description": "Maleta de viaje, colección Jubilee color negro. Compartimiento separado con cierre a un lado, 4 ruedas con giro 360º, Asa extraíble, bloqueo con código.",
+        "measures": "Medidas: 49cm x 21cm x 16cm",
+        "category": "Bolsos/maletas de viaje",
+        "quantity": "2"
+    },
+    {
+        "name": "Maleta Haga",
+        "price": "$1,600.00",
+        "img": "https://i.postimg.cc/wTSJCmFx/Maleta-Haga.png",
+        "description": "Maleta de viaje, colección Mora color negro. Compartimiento separado con cierre a un lado, 4 ruedas con giro 360º, Asa extraíble, bloqueo con código.",
+        "measures": "Medidas: 50cm x 31cm x 35cm",
+        "category": "Bolsos/maletas de viaje",
+        "quantity": "0"
+    },
+    {
+        "name": "Set de viaje Motiv",
+        "price": "$2,000.00",
+        "img": "https://i.postimg.cc/2Skwcv5q/Set-Motiv.png",
+        "description": "Set Maleta + Bolso de viaje Motiv, color azul marino. Compartimiento separado con cierre a un lado, 4 ruedas con giro 360º, Asa extraíble, bloqueo con código.",
+        "measures": "Medidas: 49cm x 22cm x 35cm",
+        "category": "Bolsos/maletas de viaje",
+        "quantity": "1"
+    },
+    {
+        "name": "Cámara deportiva sumergible",
+        "price": "$490.00",
+        "img": "https://i.postimg.cc/L8mpxyfz/Camara-Sumergible.png",
+        "description": "Cámara deportiva sumergible color azul, con pantalla de 2”, graba en microSD (no incluida), batería recargable. Incluye accesorios para montaje en casco, bici, selfie stick y más",
+        "measures": "",
+        "category": "Del hogar",
+        "quantity": "1"
     }
 ]
