@@ -474,7 +474,7 @@
         "description": "Báscula digital. Rango de peso: 5kg - 180kg.",
         "measures": "Medidas: 33cm diametro x 6mm espesor",
         "category": "Electrónica",
-        "quantity": "1"
+        "quantity": "0"
     },
     {
         "name": "Juego de cuchillos",
@@ -492,7 +492,7 @@
         "description": "Juego de 4 toallas de algodón color gris.",
         "measures": "Medidas: (2) 70cm x 1.4m, (2) 50cm x 70cm",
         "category": "Del hogar",
-        "quantity": "1"
+        "quantity": "0"
     },
     {
         "name": "Bata Deluxe",
@@ -537,7 +537,7 @@
         "description": "Mini licuadora portatil color morado",
         "measures": "",
         "category": "Del hogar",
-        "quantity": "1"
+        "quantity": "0"
     },
     {
         "name": "Olla cuadrada con tapa",
